@@ -1,0 +1,31 @@
+{
+  "original_hashes": "all five match",
+  "pdfs": {
+    "PROJADES_All_Options_A3_Review_R03.pdf": {
+      "pages": 10,
+      "page_size": "A3 landscape",
+      "sha256": "f125baab92ceabd8b5dcd268a98161e2a5c2eaf648815390a16345a6bda98255"
+    },
+    "PROJADES_Code_Review_R03.pdf": {
+      "pages": 15,
+      "page_size": "A3 landscape",
+      "sha256": "ad596038089ef0b15748ad721e714ee8bcaf18c3afcc2c0b6cb47dfa4c124203"
+    },
+    "PROJADES_Comprehensive_Review_Package_R03.pdf": {
+      "pages": 25,
+      "page_size": "A3 landscape",
+      "sha256": "1ab7a97f1663ac5116fcf10a1ac478a015c6bd12ba616ccbe0e109fbeb650481"
+    },
+    "PROJADES_Design_Review_and_Dimensions_R03.pdf": {
+      "pages": 2,
+      "page_size": "A3 landscape",
+      "sha256": "174941cfdb7f71bfedae4d09199aed7955f89dc8d414cff1bee6f47e67bfbf88"
+    },
+    "PROJADES_Five_Options_A3_Review_R03.pdf": {
+      "pages": 22,
+      "page_size": "A3 landscape",
+      "sha256": "3b766cf2fc2d89fc7eef73542a42046c200ca3884bbed3a4b479ace64b13b525"
+    }
+  },
+  "presentation_receipt": "tmp/presentation/validation-code-r03-delivery.json"
+}

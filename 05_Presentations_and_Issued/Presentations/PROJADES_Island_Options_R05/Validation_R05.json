@@ -1,0 +1,29 @@
+{
+  "original_sources": "unchanged",
+  "pdfs": {
+    "PROJADES_Options_4_and_5_Island_A3_R05.pdf": {
+      "pages": 6,
+      "size": "A3 landscape"
+    },
+    "PROJADES_Option_4_Island_A3_R05.pdf": {
+      "pages": 3,
+      "size": "A3 landscape"
+    },
+    "PROJADES_Option_5_Island_A3_R05.pdf": {
+      "pages": 3,
+      "size": "A3 landscape"
+    }
+  },
+  "design_checks": {
+    "4": {
+      "minimum_living_route_in": 46.04,
+      "minimum_island_end_clearance_in": 36.41,
+      "counter_to_island_in": 42
+    },
+    "5": {
+      "minimum_living_route_in": 51.85,
+      "minimum_island_end_clearance_in": 42.33,
+      "counter_to_island_in": 42
+    }
+  }
+}

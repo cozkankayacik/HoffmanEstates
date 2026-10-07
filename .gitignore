@@ -1,0 +1,15 @@
+# Scratch renders, build scripts and the AutoCAD LT profile copy (~2 GB)
+tmp/
+
+# Project-local LibreDWG and Python packages (~150 MB of binaries)
+tools/
+
+# AutoCAD crash logs and lock/backup files
+acadlt.err
+*.bak
+*.dwl
+*.dwl2
+
+# OS noise
+Thumbs.db
+desktop.ini

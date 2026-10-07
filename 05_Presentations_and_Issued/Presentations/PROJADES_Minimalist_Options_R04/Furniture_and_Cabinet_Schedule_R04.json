@@ -1,0 +1,98 @@
+[
+  {
+    "option": 4,
+    "unit_position": 1,
+    "room_width_in": 284.52,
+    "room_depth_in": 184.73,
+    "cabinet_footprint_sqft": 24,
+    "reserved_service_zone_in": 6,
+    "work_aisle_target_in": 48,
+    "sofa_in": "84 x 36",
+    "table_in": "60 x 30",
+    "bench_in": "60 x 18"
+  },
+  {
+    "option": 4,
+    "unit_position": 2,
+    "room_width_in": 268.04,
+    "room_depth_in": 184.73,
+    "cabinet_footprint_sqft": 24,
+    "reserved_service_zone_in": 6,
+    "work_aisle_target_in": 48,
+    "sofa_in": "84 x 36",
+    "table_in": "60 x 30",
+    "bench_in": "60 x 18"
+  },
+  {
+    "option": 4,
+    "unit_position": 3,
+    "room_width_in": 284.52,
+    "room_depth_in": 144.81,
+    "cabinet_footprint_sqft": 24,
+    "reserved_service_zone_in": 6,
+    "work_aisle_target_in": 48,
+    "sofa_in": "84 x 36",
+    "table_in": "60 x 30",
+    "bench_in": "60 x 18"
+  },
+  {
+    "option": 4,
+    "unit_position": 4,
+    "room_width_in": 284.4,
+    "room_depth_in": 144.81,
+    "cabinet_footprint_sqft": 24,
+    "reserved_service_zone_in": 6,
+    "work_aisle_target_in": 48,
+    "sofa_in": "84 x 36",
+    "table_in": "60 x 30",
+    "bench_in": "60 x 18"
+  },
+  {
+    "option": 5,
+    "unit_position": 1,
+    "room_width_in": 284.47,
+    "room_depth_in": 184.74,
+    "cabinet_footprint_sqft": 26,
+    "reserved_service_zone_in": 6,
+    "work_aisle_target_in": 48,
+    "sofa_in": "84 x 36",
+    "table_in": "60 x 30",
+    "bench_in": "60 x 18"
+  },
+  {
+    "option": 5,
+    "unit_position": 2,
+    "room_width_in": 267.85,
+    "room_depth_in": 184.74,
+    "cabinet_footprint_sqft": 26,
+    "reserved_service_zone_in": 6,
+    "work_aisle_target_in": 48,
+    "sofa_in": "84 x 36",
+    "table_in": "60 x 30",
+    "bench_in": "60 x 18"
+  },
+  {
+    "option": 5,
+    "unit_position": 3,
+    "room_width_in": 284.47,
+    "room_depth_in": 144.66,
+    "cabinet_footprint_sqft": 26,
+    "reserved_service_zone_in": 6,
+    "work_aisle_target_in": 48,
+    "sofa_in": "84 x 36",
+    "table_in": "60 x 30",
+    "bench_in": "60 x 18"
+  },
+  {
+    "option": 5,
+    "unit_position": 4,
+    "room_width_in": 284.47,
+    "room_depth_in": 144.66,
+    "cabinet_footprint_sqft": 26,
+    "reserved_service_zone_in": 6,
+    "work_aisle_target_in": 48,
+    "sofa_in": "84 x 36",
+    "table_in": "60 x 30",
+    "bench_in": "60 x 18"
+  }
+]

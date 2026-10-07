@@ -1,0 +1,8405 @@
+[
+  {
+    "handle": "34CA3",
+    "owner": "2",
+    "layer": "GENNOTE",
+    "version": 0,
+    "geometry": "*D66",
+    "defpoint": [
+      39438.54094337409,
+      12363.15505517822,
+      0.0
+    ],
+    "text_midpoint": [
+      39408.54094337409,
+      12367.33362660679,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 60.0,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      39378.54094337409,
+      12344.3830175154,
+      0.0
+    ],
+    "defpoint3": [
+      39438.54094337409,
+      12344.3830175154,
+      0.0
+    ],
+    "measured": 60.0
+  },
+  {
+    "handle": "34CA4",
+    "owner": "2",
+    "layer": "GENNOTE",
+    "version": 0,
+    "geometry": "*D67",
+    "defpoint": [
+      39438.54094337409,
+      12257.4690229453,
+      0.0
+    ],
+    "text_midpoint": [
+      39408.54094337409,
+      12264.32616580244,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 60.0,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "1-8_SCALE_large text",
+    "defpoint2": [
+      39378.54094337409,
+      12238.69698528248,
+      0.0
+    ],
+    "defpoint3": [
+      39438.54094337409,
+      12238.69698528248,
+      0.0
+    ],
+    "measured": 60.0
+  },
+  {
+    "handle": "34CA5",
+    "owner": "2",
+    "layer": "GENNOTE",
+    "version": 0,
+    "geometry": "*D68",
+    "defpoint": [
+      39438.54094337409,
+      12310.31203906176,
+      0.0
+    ],
+    "text_midpoint": [
+      39408.54094337409,
+      12315.82989620462,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 60.0,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "3-16_SCALE_large text",
+    "defpoint2": [
+      39378.54094337409,
+      12291.54000139894,
+      0.0
+    ],
+    "defpoint3": [
+      39438.54094337409,
+      12291.54000139894,
+      0.0
+    ],
+    "measured": 60.0
+  },
+  {
+    "handle": "34E0E",
+    "owner": "2",
+    "layer": "LIGHT",
+    "version": 0,
+    "geometry": "*D69",
+    "defpoint": [
+      37840.86856936565,
+      12059.79525717509,
+      0.0
+    ],
+    "text_midpoint": [
+      37822.86856936565,
+      12063.97382860366,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 36.0,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      37804.86856936565,
+      12077.64448526765,
+      0.0
+    ],
+    "defpoint3": [
+      37840.86856936565,
+      12078.14448526765,
+      0.0
+    ],
+    "measured": 36.0
+  },
+  {
+    "handle": "34E0F",
+    "owner": "2",
+    "layer": "LIGHT",
+    "version": 0,
+    "geometry": "*D70",
+    "defpoint": [
+      37876.86856936565,
+      12059.79525717509,
+      0.0
+    ],
+    "text_midpoint": [
+      37858.86856936565,
+      12063.97382860366,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 36.0,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      37840.86856936565,
+      12074.64448526765,
+      0.0
+    ],
+    "defpoint3": [
+      37876.86856936565,
+      12074.64448526767,
+      0.0
+    ],
+    "measured": 36.0
+  },
+  {
+    "handle": "126B55",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D2853",
+    "defpoint": [
+      41530.13182183029,
+      7005.252192490156,
+      0.0
+    ],
+    "text_midpoint": [
+      41524.45325040171,
+      6945.252192490142,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 119.9999999999991,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41530.13182183019,
+      6885.252192490153,
+      0.0
+    ],
+    "defpoint3": [
+      41530.13182183019,
+      7005.252192490152,
+      0.0
+    ],
+    "angle": 90.0,
+    "measured": 119.99999999999909
+  },
+  {
+    "handle": "126B56",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D2854",
+    "defpoint": [
+      41602.82434212761,
+      6900.862638446139,
+      0.0
+    ],
+    "text_midpoint": [
+      41524.82434212761,
+      6906.54120987471,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 155.9999999999854,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41446.82434212762,
+      6939.681319074094,
+      0.0
+    ],
+    "defpoint3": [
+      41602.82434212761,
+      6932.392474801361,
+      0.0
+    ],
+    "measured": 155.99999999999272
+  },
+  {
+    "handle": "126F20",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D2856",
+    "defpoint": [
+      41546.81048394354,
+      5694.634520799156,
+      0.0
+    ],
+    "text_midpoint": [
+      41541.13191251496,
+      5617.613520799155,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 154.0419999999776,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41546.81048394337,
+      5540.592520799177,
+      0.0
+    ],
+    "defpoint3": [
+      41546.81048394337,
+      5694.634520799154,
+      0.0
+    ],
+    "angle": 90.0,
+    "measured": 154.04199999997763
+  },
+  {
+    "handle": "126F21",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D2857",
+    "defpoint": [
+      41572.81813382246,
+      5603.210117090624,
+      0.0
+    ],
+    "text_midpoint": [
+      41509.82123797504,
+      5608.888688519196,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 125.9937916948402,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41446.82434212762,
+      5642.02879771858,
+      0.0
+    ],
+    "defpoint3": [
+      41572.81813382246,
+      5634.739953445849,
+      0.0
+    ],
+    "measured": 125.99379169484018
+  },
+  {
+    "handle": "126FE6",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D2858",
+    "defpoint": [
+      41731.5725740937,
+      5485.491383353059,
+      0.0
+    ],
+    "text_midpoint": [
+      41647.71879144399,
+      5492.428883353059,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 167.7075652994172,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41563.86500879428,
+      5502.892133227462,
+      0.0
+    ],
+    "defpoint3": [
+      41731.5725740937,
+      5502.892133227462,
+      0.0
+    ],
+    "measured": 167.70756529941718
+  },
+  {
+    "handle": "126FE7",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D2859",
+    "defpoint": [
+      41506.82434412761,
+      5485.491383353059,
+      0.0
+    ],
+    "text_midpoint": [
+      41535.34467646095,
+      5491.169954781631,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 57.040664666667,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41563.86500879428,
+      5502.892133227462,
+      0.0
+    ],
+    "defpoint3": [
+      41506.82434412761,
+      5502.892133227462,
+      0.0
+    ],
+    "measured": 57.040664666667
+  },
+  {
+    "handle": "126FE8",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D2860",
+    "defpoint": [
+      41446.82434212762,
+      5485.491383353059,
+      0.0
+    ],
+    "text_midpoint": [
+      41476.82434312762,
+      5491.169954781631,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 60.0000019999934,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41506.82434412761,
+      5485.491383353059,
+      0.0
+    ],
+    "defpoint3": [
+      41446.82434212762,
+      5485.491383353059,
+      0.0
+    ],
+    "measured": 60.0000019999934
+  },
+  {
+    "handle": "12700D",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D2862",
+    "defpoint": [
+      41926.1285817717,
+      5694.634520799156,
+      0.0
+    ],
+    "text_midpoint": [
+      41920.45001034312,
+      5617.613520799155,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 154.0419999999776,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41926.12858177179,
+      5540.592520799177,
+      0.0
+    ],
+    "defpoint3": [
+      41926.12858177179,
+      5694.634520799154,
+      0.0
+    ],
+    "angle": 90.0,
+    "measured": 154.04199999997763
+  },
+  {
+    "handle": "12700E",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D2863",
+    "defpoint": [
+      41900.11472358753,
+      5603.210117090624,
+      0.0
+    ],
+    "text_midpoint": [
+      41963.11472358753,
+      5608.888688519196,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 126.0,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      42026.11472358753,
+      5642.02879771858,
+      0.0
+    ],
+    "defpoint3": [
+      41900.11472358753,
+      5634.353952176707,
+      0.0
+    ],
+    "angle": 180.0,
+    "measured": 126.0
+  },
+  {
+    "handle": "12709D",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D2867",
+    "defpoint": [
+      41741.36649162145,
+      5485.491383353059,
+      0.0
+    ],
+    "text_midpoint": [
+      41825.22027427117,
+      5492.428883353059,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 167.7075652994172,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41909.07405692087,
+      5502.892133227462,
+      0.0
+    ],
+    "defpoint3": [
+      41741.36649162145,
+      5502.892133227462,
+      0.0
+    ],
+    "angle": 180.0,
+    "measured": 167.70756529942446
+  },
+  {
+    "handle": "12709E",
+    "owner": "2",
+    "layer": "MEDIUM",
+    "version": 0,
+    "geometry": "*D2868",
+    "defpoint": [
+      41966.11472158754,
+      5485.491383353059,
+      0.0
+    ],
+    "text_midpoint": [
+      41937.59438925421,
+      5491.169954781631,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 57.040664666667,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41909.07405692087,
+      5502.892133227462,
+      0.0
+    ],
+    "defpoint3": [
+      41966.11472158754,
+      5502.892133227462,
+      0.0
+    ],
+    "angle": 180.0,
+    "measured": 57.040664666667
+  },
+  {
+    "handle": "12709F",
+    "owner": "2",
+    "layer": "MEDIUM",
+    "version": 0,
+    "geometry": "*D2869",
+    "defpoint": [
+      42026.11472358753,
+      5485.491383353059,
+      0.0
+    ],
+    "text_midpoint": [
+      41996.11472258753,
+      5491.169954781631,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 60.0000019999934,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41966.11472158754,
+      5485.491383353059,
+      0.0
+    ],
+    "defpoint3": [
+      42026.11472358753,
+      5485.491383353059,
+      0.0
+    ],
+    "angle": 180.0,
+    "measured": 60.0000019999934
+  },
+  {
+    "handle": "12714D",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D2864",
+    "defpoint": [
+      41731.5725740937,
+      5925.77765824525,
+      0.0
+    ],
+    "text_midpoint": [
+      41647.71879144399,
+      5932.71515824525,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 167.7075652994172,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41563.86500879428,
+      5908.376908370847,
+      0.0
+    ],
+    "defpoint3": [
+      41731.5725740937,
+      5908.376908370847,
+      0.0
+    ],
+    "measured": 167.70756529941718
+  },
+  {
+    "handle": "12714E",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D2865",
+    "defpoint": [
+      41506.82434412761,
+      5925.77765824525,
+      0.0
+    ],
+    "text_midpoint": [
+      41535.34467646095,
+      5931.456229673821,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 57.040664666667,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41563.86500879428,
+      5908.376908370847,
+      0.0
+    ],
+    "defpoint3": [
+      41506.82434412761,
+      5908.376908370847,
+      0.0
+    ],
+    "measured": 57.040664666667
+  },
+  {
+    "handle": "1271FA",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D2875",
+    "defpoint": [
+      41741.36649162145,
+      5913.77765824525,
+      0.0
+    ],
+    "text_midpoint": [
+      41817.09575020787,
+      5920.71515824525,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 151.4585171728322,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41892.82500879429,
+      5896.435606551595,
+      0.0
+    ],
+    "defpoint3": [
+      41741.36649162145,
+      5896.376908370847,
+      0.0
+    ],
+    "angle": 180.0,
+    "measured": 151.4585171728395
+  },
+  {
+    "handle": "1271FB",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D2876",
+    "defpoint": [
+      41949.86567346095,
+      5913.77765824525,
+      0.0
+    ],
+    "text_midpoint": [
+      41921.34534112762,
+      5919.456229673821,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 57.040664666667,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41892.82500879429,
+      5896.376908370847,
+      0.0
+    ],
+    "defpoint3": [
+      41949.86567346095,
+      5896.376908370847,
+      0.0
+    ],
+    "angle": 180.0,
+    "measured": 57.04066466665972
+  },
+  {
+    "handle": "127208",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D2871",
+    "defpoint": [
+      42009.86567546095,
+      5913.77765824525,
+      0.0
+    ],
+    "text_midpoint": [
+      41979.86567446095,
+      5919.456229673821,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 60.00000200000068,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41949.86567346095,
+      5913.77765824525,
+      0.0
+    ],
+    "defpoint3": [
+      42009.86567546095,
+      5913.77765824525,
+      0.0
+    ],
+    "measured": 60.00000200000068
+  },
+  {
+    "handle": "127211",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D2873",
+    "defpoint": [
+      41610.70399685582,
+      5864.676520799145,
+      0.0
+    ],
+    "text_midpoint": [
+      41605.02542542724,
+      5940.148757663343,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 150.9444737284211,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41601.0700695587,
+      6015.620994527564,
+      0.0
+    ],
+    "defpoint3": [
+      41609.86386173429,
+      5864.676520799143,
+      0.0
+    ],
+    "angle": 90.0,
+    "measured": 150.94447372842114
+  },
+  {
+    "handle": "127212",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D2874",
+    "defpoint": [
+      41610.70399685584,
+      5423.539661194232,
+      0.0
+    ],
+    "text_midpoint": [
+      41605.02542542726,
+      5485.066090996687,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 123.0528596049353,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41610.70399685575,
+      5546.592520799166,
+      0.0
+    ],
+    "defpoint3": [
+      41610.70399685575,
+      5423.539661194231,
+      0.0
+    ],
+    "angle": 90.0,
+    "measured": 123.05285960493529
+  },
+  {
+    "handle": "127213",
+    "owner": "2",
+    "layer": "LIGHT",
+    "version": 0,
+    "geometry": "*D2878",
+    "defpoint": [
+      41848.32006672269,
+      5546.592520799168,
+      0.0
+    ],
+    "text_midpoint": [
+      41842.64149529411,
+      5485.066090996688,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 123.0528596049335,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41842.89688402585,
+      5423.539661194232,
+      0.0
+    ],
+    "defpoint3": [
+      41842.89688402585,
+      5546.592520799166,
+      0.0
+    ],
+    "angle": 90.0,
+    "measured": 123.05285960493347
+  },
+  {
+    "handle": "127214",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D2879",
+    "defpoint": [
+      41546.72944359743,
+      5870.676520799145,
+      0.0
+    ],
+    "text_midpoint": [
+      41541.05087216885,
+      5787.655520799138,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 166.0419999999895,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41546.72944359733,
+      5704.634520799154,
+      0.0
+    ],
+    "defpoint3": [
+      41546.72944359736,
+      5870.676520799143,
+      0.0
+    ],
+    "angle": 90.0,
+    "measured": 166.04199999998855
+  },
+  {
+    "handle": "127215",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D2880",
+    "defpoint": [
+      41572.81813382245,
+      5770.425215936919,
+      0.0
+    ],
+    "text_midpoint": [
+      41509.82123797503,
+      5776.10378736549,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 125.9937916948402,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41446.82434212761,
+      5767.282085782941,
+      0.0
+    ],
+    "defpoint3": [
+      41572.81813382245,
+      5767.705782559342,
+      0.0
+    ],
+    "measured": 125.99379169484018
+  },
+  {
+    "handle": "127216",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D2881",
+    "defpoint": [
+      41930.96054041883,
+      5870.676520799146,
+      0.0
+    ],
+    "text_midpoint": [
+      41925.28196899025,
+      5787.655520799138,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 166.0419999999895,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41928.36649162143,
+      5704.634520799154,
+      0.0
+    ],
+    "defpoint3": [
+      41928.36649162143,
+      5870.676520799144,
+      0.0
+    ],
+    "angle": 90.0,
+    "measured": 166.04199999998946
+  },
+  {
+    "handle": "127217",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D2882",
+    "defpoint": [
+      42026.11472358752,
+      5728.994965779682,
+      0.0
+    ],
+    "text_midpoint": [
+      41963.11472358753,
+      5734.673537208254,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 125.9999999999927,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41900.11472358753,
+      5725.851835625705,
+      0.0
+    ],
+    "defpoint3": [
+      42026.11472358752,
+      5726.275532402105,
+      0.0
+    ],
+    "measured": 125.99999999998545
+  },
+  {
+    "handle": "127223",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D2884",
+    "defpoint": [
+      41813.37458843557,
+      5864.676520799143,
+      0.0
+    ],
+    "text_midpoint": [
+      41807.69601700699,
+      5940.148757663341,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 150.9444737284211,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41803.7406611384,
+      6015.620994527562,
+      0.0
+    ],
+    "defpoint3": [
+      41803.7406611384,
+      5864.676520799141,
+      0.0
+    ],
+    "angle": 90.0,
+    "measured": 150.94447372842114
+  },
+  {
+    "handle": "1278A4",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D2893",
+    "defpoint": [
+      41530.13182183032,
+      6734.157332885234,
+      0.0
+    ],
+    "text_midpoint": [
+      41524.45325040174,
+      6806.704762687681,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 145.094859604922,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41533.01675583076,
+      6879.252192490152,
+      0.0
+    ],
+    "defpoint3": [
+      41533.01675583076,
+      6734.15733288523,
+      0.0
+    ],
+    "angle": 90.0,
+    "measured": 145.09485960492202
+  },
+  {
+    "handle": "1278B1",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D2894",
+    "defpoint": [
+      41731.5725740937,
+      6785.856019239814,
+      0.0
+    ],
+    "text_midpoint": [
+      41589.19845811065,
+      6792.793519239814,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 284.7482319660849,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41446.82434212761,
+      6789.046066470299,
+      0.0
+    ],
+    "defpoint3": [
+      41731.5725740937,
+      6789.046066470299,
+      0.0
+    ],
+    "measured": 284.74823196608486
+  },
+  {
+    "handle": "127CE7",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D2911",
+    "defpoint": [
+      41483.38617151364,
+      5864.676520799157,
+      0.0
+    ],
+    "text_midpoint": [
+      41477.70760008506,
+      5849.676520799149,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 29.99999999998818,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41505.68405881641,
+      5834.676520799167,
+      0.0
+    ],
+    "defpoint3": [
+      41505.68405881643,
+      5864.676520799155,
+      0.0
+    ],
+    "angle": 90.0,
+    "measured": 29.999999999988177
+  },
+  {
+    "handle": "127CFD",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D2912",
+    "defpoint": [
+      41505.07044380417,
+      5576.592520799139,
+      0.0
+    ],
+    "text_midpoint": [
+      41499.39187237559,
+      5561.59252079914,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 29.99999999997272,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41509.82123797504,
+      5546.592520799165,
+      0.0
+    ],
+    "defpoint3": [
+      41509.82123797504,
+      5576.592520799138,
+      0.0
+    ],
+    "angle": 90.0,
+    "measured": 29.999999999972715
+  },
+  {
+    "handle": "127DD4",
+    "owner": "2",
+    "layer": "LIGHT",
+    "version": 0,
+    "geometry": "*D2914",
+    "defpoint": [
+      41956.56052171793,
+      5864.676520799157,
+      0.0
+    ],
+    "text_midpoint": [
+      41950.88195028935,
+      5849.676520799153,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 29.99999999998272,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41951.00595877216,
+      5834.676520799172,
+      0.0
+    ],
+    "defpoint3": [
+      41951.00595877214,
+      5864.676520799155,
+      0.0
+    ],
+    "angle": 90.0,
+    "measured": 29.99999999998272
+  },
+  {
+    "handle": "127DE1",
+    "owner": "2",
+    "layer": "LIGHT",
+    "version": 0,
+    "geometry": "*D2915",
+    "defpoint": [
+      41972.79173436981,
+      5546.592520799167,
+      0.0
+    ],
+    "text_midpoint": [
+      41967.11316294123,
+      5561.59252079914,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 29.99999999997272,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41969.47097446799,
+      5576.592520799138,
+      0.0
+    ],
+    "defpoint3": [
+      41969.11472358753,
+      5546.592520799165,
+      0.0
+    ],
+    "angle": 90.0,
+    "measured": 29.999999999972715
+  },
+  {
+    "handle": "128DE5",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D2960",
+    "defpoint": [
+      41534.21218336539,
+      5749.630065876976,
+      0.0
+    ],
+    "text_midpoint": [
+      41504.21218336539,
+      5755.308637305548,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 60.0,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41474.21218336539,
+      5752.721729007842,
+      2.706165132262286e-17
+    ],
+    "defpoint3": [
+      41534.21218336539,
+      5752.721729007842,
+      2.706165132262286e-17
+    ],
+    "measured": 60.0
+  },
+  {
+    "handle": "128DF2",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D2961",
+    "defpoint": [
+      41495.50531906467,
+      5781.522933237595,
+      0.0
+    ],
+    "text_midpoint": [
+      41489.82674763609,
+      5743.078727018362,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 76.88841243843945,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41500.38571199676,
+      5704.634520799154,
+      0.0
+    ],
+    "defpoint3": [
+      41500.38571199676,
+      5781.522933237593,
+      2.706165132262286e-17
+    ],
+    "angle": 90.0,
+    "measured": 76.88841243843854
+  },
+  {
+    "handle": "128F23",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D2962",
+    "defpoint": [
+      41859.40821626077,
+      5798.627325598,
+      0.0
+    ],
+    "text_midpoint": [
+      41853.72964483219,
+      5751.630923198566,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 93.99280479884237,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41858.67930345287,
+      5704.634520799155,
+      0.0
+    ],
+    "defpoint3": [
+      41858.67930345287,
+      5798.627325597998,
+      0.0
+    ],
+    "angle": 90.0,
+    "measured": 93.99280479884237
+  },
+  {
+    "handle": "128FC4",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D2965",
+    "defpoint": [
+      41894.36907104902,
+      5770.425215936921,
+      0.0
+    ],
+    "text_midpoint": [
+      41858.36907104902,
+      5776.103787365492,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 72.0,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41822.36907104902,
+      5770.849619645451,
+      0.0
+    ],
+    "defpoint3": [
+      41894.36907104902,
+      5770.425215936921,
+      0.0
+    ],
+    "measured": 72.0
+  },
+  {
+    "handle": "129044",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D2969",
+    "defpoint": [
+      41545.8751819655,
+      6819.239075236412,
+      0.0
+    ],
+    "text_midpoint": [
+      41540.19661053692,
+      6837.239075236398,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 36.0,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41561.00219036834,
+      6855.239075236408,
+      0.0
+    ],
+    "defpoint3": [
+      41555.98589097257,
+      6819.239075236408,
+      0.0
+    ],
+    "angle": 270.0,
+    "measured": 36.0
+  },
+  {
+    "handle": "129133",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D2971",
+    "defpoint": [
+      41530.13182183032,
+      7015.252192490156,
+      0.0
+    ],
+    "text_midpoint": [
+      41524.45325040174,
+      7075.252192490142,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 119.9999999999991,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41530.13182183019,
+      7135.252192490151,
+      0.0
+    ],
+    "defpoint3": [
+      41530.13182183019,
+      7015.252192490152,
+      0.0
+    ],
+    "angle": 270.0,
+    "measured": 119.99999999999909
+  },
+  {
+    "handle": "129134",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D2972",
+    "defpoint": [
+      41602.82434212761,
+      7119.641746534166,
+      0.0
+    ],
+    "text_midpoint": [
+      41524.82434212761,
+      7125.320317962737,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 155.9999999999854,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41446.82434212762,
+      7080.82306590621,
+      0.0
+    ],
+    "defpoint3": [
+      41602.82434212761,
+      7088.111910178943,
+      0.0
+    ],
+    "measured": 155.99999999999272
+  },
+  {
+    "handle": "12915A",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D2977",
+    "defpoint": [
+      41530.13182183036,
+      7326.238666218566,
+      0.0
+    ],
+    "text_midpoint": [
+      41524.45325040178,
+      7233.745429354348,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 184.9864737284106,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41533.01675583076,
+      7141.252192490152,
+      0.0
+    ],
+    "defpoint3": [
+      41533.01675583076,
+      7326.238666218563,
+      0.0
+    ],
+    "angle": 270.0,
+    "measured": 184.9864737284106
+  },
+  {
+    "handle": "12915B",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D2978",
+    "defpoint": [
+      41731.5725740937,
+      7234.64836574049,
+      0.0
+    ],
+    "text_midpoint": [
+      41589.19845811065,
+      7241.58586574049,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 284.7482319660849,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41446.82434212761,
+      7231.458318510005,
+      0.0
+    ],
+    "defpoint3": [
+      41731.5725740937,
+      7231.458318510005,
+      0.0
+    ],
+    "measured": 284.74823196608486
+  },
+  {
+    "handle": "12915D",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D2973",
+    "defpoint": [
+      41638.82434212761,
+      7119.641746534166,
+      0.0
+    ],
+    "text_midpoint": [
+      41620.82434212761,
+      7125.320317962737,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 36.00000000000728,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41602.82434212761,
+      7102.971625867727,
+      0.0
+    ],
+    "defpoint3": [
+      41638.82434212761,
+      7114.252192490151,
+      0.0
+    ],
+    "measured": 36.0
+  },
+  {
+    "handle": "129160",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D2979",
+    "defpoint": [
+      41545.87518196553,
+      7201.2653097439,
+      0.0
+    ],
+    "text_midpoint": [
+      41540.19661053695,
+      7183.265309743886,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 36.0,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41561.00219036834,
+      7165.265309743896,
+      0.0
+    ],
+    "defpoint3": [
+      41555.98589097257,
+      7201.265309743896,
+      0.0
+    ],
+    "angle": 90.00000000000001,
+    "measured": 36.0
+  },
+  {
+    "handle": "12929A",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D2980",
+    "defpoint": [
+      41943.05538304118,
+      7005.252192490156,
+      0.0
+    ],
+    "text_midpoint": [
+      41937.3768116126,
+      6945.252192490142,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 119.9999999999991,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41943.05538304128,
+      6885.252192490153,
+      0.0
+    ],
+    "defpoint3": [
+      41943.05538304128,
+      7005.252192490152,
+      0.0
+    ],
+    "angle": 90.0,
+    "measured": 119.99999999999909
+  },
+  {
+    "handle": "12929B",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D2981",
+    "defpoint": [
+      41870.36286274387,
+      6900.862638446139,
+      0.0
+    ],
+    "text_midpoint": [
+      41957.6116754781,
+      6906.54120987471,
+      0.0
+    ],
+    "dimtype": 160,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 155.9999999999854,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      42026.36286274385,
+      6939.681319074094,
+      0.0
+    ],
+    "defpoint3": [
+      41870.36286274387,
+      6932.392474801361,
+      0.0
+    ],
+    "angle": 180.0,
+    "measured": 155.99999999998545
+  },
+  {
+    "handle": "1292C1",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D2986",
+    "defpoint": [
+      41943.05538304115,
+      6734.157332885234,
+      0.0
+    ],
+    "text_midpoint": [
+      41937.37681161257,
+      6806.704762687681,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 145.094859604922,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41940.17044904071,
+      6879.252192490152,
+      0.0
+    ],
+    "defpoint3": [
+      41940.17044904071,
+      6734.15733288523,
+      0.0
+    ],
+    "angle": 90.0,
+    "measured": 145.09485960492202
+  },
+  {
+    "handle": "1292C2",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D2987",
+    "defpoint": [
+      41741.61463077777,
+      6785.856019239814,
+      0.0
+    ],
+    "text_midpoint": [
+      41883.98874676082,
+      6792.793519239814,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 284.7482319660849,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      42026.36286274386,
+      6789.046066470299,
+      0.0
+    ],
+    "defpoint3": [
+      41741.61463077777,
+      6789.046066470299,
+      0.0
+    ],
+    "angle": 180.0,
+    "measured": 284.74823196609213
+  },
+  {
+    "handle": "1292C7",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D2988",
+    "defpoint": [
+      41927.31202290597,
+      6819.239075236412,
+      0.0
+    ],
+    "text_midpoint": [
+      41921.63345147739,
+      6837.239075236398,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 36.0,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41912.18501450313,
+      6855.239075236408,
+      0.0
+    ],
+    "defpoint3": [
+      41917.2013138989,
+      6819.239075236408,
+      0.0
+    ],
+    "angle": 270.0,
+    "measured": 36.0
+  },
+  {
+    "handle": "129422",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D2992",
+    "defpoint": [
+      41896.873911165,
+      7201.154145062972,
+      0.0
+    ],
+    "text_midpoint": [
+      41891.18519777289,
+      7183.157347753122,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 35.99999999998727,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41881.72661943354,
+      7165.162674734251,
+      0.0
+    ],
+    "defpoint3": [
+      41886.76320376314,
+      7201.159842371703,
+      0.0
+    ],
+    "angle": 89.96771425604125,
+    "measured": 35.99999999998683
+  },
+  {
+    "handle": "1294B1",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D2993",
+    "defpoint": [
+      42009.82768977844,
+      7234.409595645451,
+      0.0
+    ],
+    "text_midpoint": [
+      41875.79261841335,
+      7240.088167074023,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 268.0701427301756,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41741.75754704826,
+      7231.219548414967,
+      0.0
+    ],
+    "defpoint3": [
+      42009.82768977844,
+      7231.230761522499,
+      0.0
+    ],
+    "measured": 268.0701427301756
+  },
+  {
+    "handle": "1294D0",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D2994",
+    "defpoint": [
+      41803.66548038907,
+      7326.238666218566,
+      0.0
+    ],
+    "text_midpoint": [
+      41797.98690896049,
+      7233.722326276576,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 185.0326798839533,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41818.63149898488,
+      7141.205986334609,
+      0.0
+    ],
+    "defpoint3": [
+      41818.63149898488,
+      7326.238666218563,
+      0.0
+    ],
+    "angle": 90.0,
+    "measured": 185.03267988395328
+  },
+  {
+    "handle": "129BC5",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3002",
+    "defpoint": [
+      41731.5725740937,
+      9924.69050876861,
+      0.0
+    ],
+    "text_midpoint": [
+      41647.71879144399,
+      9931.62800876861,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 167.7075652994172,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41563.86500879428,
+      9907.289758894207,
+      0.0
+    ],
+    "defpoint3": [
+      41731.5725740937,
+      9907.289758894207,
+      0.0
+    ],
+    "measured": 167.70756529941718
+  },
+  {
+    "handle": "129C3F",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3014",
+    "defpoint": [
+      41610.70399685585,
+      9863.589371322507,
+      0.0
+    ],
+    "text_midpoint": [
+      41605.02542542727,
+      9939.061608186705,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 150.9444737284211,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41601.0700695587,
+      10014.53384505092,
+      0.0
+    ],
+    "defpoint3": [
+      41609.86386173429,
+      9863.589371322503,
+      0.0
+    ],
+    "angle": 90.0,
+    "measured": 150.9444737284175
+  },
+  {
+    "handle": "129C42",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3017",
+    "defpoint": [
+      41546.72944359746,
+      9869.589371322507,
+      0.0
+    ],
+    "text_midpoint": [
+      41541.05087216888,
+      9786.568371322499,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 166.0419999999885,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41546.72944359733,
+      9703.547371322515,
+      0.0
+    ],
+    "defpoint3": [
+      41546.72944359736,
+      9869.589371322503,
+      0.0
+    ],
+    "angle": 90.0,
+    "measured": 166.04199999998855
+  },
+  {
+    "handle": "129C43",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3018",
+    "defpoint": [
+      41572.81813382245,
+      9769.33806646028,
+      0.0
+    ],
+    "text_midpoint": [
+      41509.82123797503,
+      9775.01663788885,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 125.9937916948402,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41446.82434212761,
+      9766.194936306301,
+      0.0
+    ],
+    "defpoint3": [
+      41572.81813382245,
+      9766.618633082702,
+      0.0
+    ],
+    "measured": 125.99379169484018
+  },
+  {
+    "handle": "129CD6",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3031",
+    "defpoint": [
+      41483.38617151367,
+      9863.58937132252,
+      0.0
+    ],
+    "text_midpoint": [
+      41477.70760008509,
+      9848.589371322512,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 29.99999999998909,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41505.68405881641,
+      9833.589371322527,
+      0.0
+    ],
+    "defpoint3": [
+      41505.68405881643,
+      9863.589371322516,
+      0.0
+    ],
+    "angle": 90.0,
+    "measured": 29.999999999989086
+  },
+  {
+    "handle": "129DF3",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3058",
+    "defpoint": [
+      41530.13182183035,
+      11014.16504301352,
+      0.0
+    ],
+    "text_midpoint": [
+      41524.45325040177,
+      11074.1650430135,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 120.0,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41530.13182183019,
+      11134.16504301351,
+      0.0
+    ],
+    "defpoint3": [
+      41530.13182183019,
+      11014.16504301351,
+      0.0
+    ],
+    "angle": 270.0,
+    "measured": 120.0
+  },
+  {
+    "handle": "129DF4",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3059",
+    "defpoint": [
+      41602.82434212761,
+      11118.55459705753,
+      0.0
+    ],
+    "text_midpoint": [
+      41524.82434212761,
+      11124.2331684861,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 155.9999999999854,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41446.82434212762,
+      11079.73591642957,
+      0.0
+    ],
+    "defpoint3": [
+      41602.82434212761,
+      11087.0247607023,
+      0.0
+    ],
+    "measured": 155.99999999999272
+  },
+  {
+    "handle": "129E15",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3060",
+    "defpoint": [
+      41646.82434212761,
+      11092.66029736134,
+      0.0
+    ],
+    "text_midpoint": [
+      41688.85834659209,
+      11098.33886878991,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 84.06800892896717,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41730.89235105657,
+      11092.66029736121,
+      0.0
+    ],
+    "defpoint3": [
+      41646.82434212761,
+      11092.66029736128,
+      0.0
+    ],
+    "measured": 84.0680089289599
+  },
+  {
+    "handle": "129E18",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3061",
+    "defpoint": [
+      41688.60446727298,
+      11134.16504301352,
+      0.0
+    ],
+    "text_midpoint": [
+      41688.60446727296,
+      11084.02581470297,
+      0.0
+    ],
+    "dimtype": 160,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 76.00000000000546,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41699.56447627966,
+      11058.16504301351,
+      0.0
+    ],
+    "defpoint3": [
+      41699.56447627966,
+      11134.16504301352,
+      0.0
+    ],
+    "angle": 270.0,
+    "measured": 76.0000000000091
+  },
+  {
+    "handle": "129E19",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3062",
+    "defpoint": [
+      41530.13182183039,
+      11325.15151674193,
+      0.0
+    ],
+    "text_midpoint": [
+      41524.45325040181,
+      11232.65827987771,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 184.9864737284115,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41533.01675583076,
+      11140.16504301351,
+      0.0
+    ],
+    "defpoint3": [
+      41533.01675583076,
+      11325.15151674192,
+      0.0
+    ],
+    "angle": 270.0,
+    "measured": 184.9864737284097
+  },
+  {
+    "handle": "129E1A",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3063",
+    "defpoint": [
+      41731.5725740937,
+      11233.56121626385,
+      0.0
+    ],
+    "text_midpoint": [
+      41589.19845811065,
+      11240.49871626385,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 284.7482319660849,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41446.82434212761,
+      11230.37116903337,
+      0.0
+    ],
+    "defpoint3": [
+      41731.5725740937,
+      11230.37116903337,
+      0.0
+    ],
+    "measured": 284.74823196608486
+  },
+  {
+    "handle": "129E1C",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3064",
+    "defpoint": [
+      41640.82434212761,
+      11118.55459705753,
+      0.0
+    ],
+    "text_midpoint": [
+      41621.82434212761,
+      11124.2331684861,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 38.00000000000728,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41602.82434212761,
+      11101.58256328305,
+      0.0
+    ],
+    "defpoint3": [
+      41640.82434212761,
+      11095.88447639108,
+      0.0
+    ],
+    "measured": 38.0
+  },
+  {
+    "handle": "129E1F",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3066",
+    "defpoint": [
+      41622.96441970496,
+      11265.16072490406,
+      0.0
+    ],
+    "text_midpoint": [
+      41617.28584827638,
+      11283.16072490404,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 36.0,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41607.83741130216,
+      11301.16072490405,
+      0.0
+    ],
+    "defpoint3": [
+      41612.85371069793,
+      11265.16072490405,
+      0.0
+    ],
+    "angle": 270.0,
+    "measured": 36.0
+  },
+  {
+    "handle": "12A5C0",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3067",
+    "defpoint": [
+      41870.36286274382,
+      7052.417656532867,
+      0.0
+    ],
+    "text_midpoint": [
+      41846.99185091338,
+      7059.355156532867,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 46.74202366088866,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41823.62083908293,
+      7053.252192490152,
+      0.0
+    ],
+    "defpoint3": [
+      41870.36286274382,
+      7052.417656532867,
+      0.0
+    ],
+    "angle": 180.0,
+    "measured": 46.74202366089594
+  },
+  {
+    "handle": "12A62F",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3068",
+    "defpoint": [
+      41870.36286274382,
+      6900.862638446095,
+      0.0
+    ],
+    "text_midpoint": [
+      41852.36286274384,
+      6906.541209874666,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 35.9999999999709,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41834.36286274385,
+      6900.02810248881,
+      0.0
+    ],
+    "defpoint3": [
+      41870.36286274382,
+      6900.862638446095,
+      0.0
+    ],
+    "angle": 180.0,
+    "measured": 35.999999999970896
+  },
+  {
+    "handle": "12A71C",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3071",
+    "defpoint": [
+      41859.4082162608,
+      5600.641716000313,
+      0.0
+    ],
+    "text_midpoint": [
+      41853.72964483222,
+      5647.638118399721,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 93.99280479884237,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41858.67930345287,
+      5694.634520799154,
+      0.0
+    ],
+    "defpoint3": [
+      41858.67930345287,
+      5600.641716000311,
+      0.0
+    ],
+    "angle": 270.0,
+    "measured": 93.99280479884328
+  },
+  {
+    "handle": "12A71F",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3070",
+    "defpoint": [
+      41894.36907104902,
+      5628.843825661388,
+      0.0
+    ],
+    "text_midpoint": [
+      41858.36907104902,
+      5634.52239708996,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 72.0,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41822.36907104902,
+      5628.419421952858,
+      0.0
+    ],
+    "defpoint3": [
+      41894.36907104902,
+      5628.843825661388,
+      0.0
+    ],
+    "measured": 72.0
+  },
+  {
+    "handle": "12A781",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3073",
+    "defpoint": [
+      41613.72376150685,
+      5798.627325598,
+      0.0
+    ],
+    "text_midpoint": [
+      41608.04519007827,
+      5751.630923198566,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 93.99280479884237,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41614.45267431475,
+      5704.634520799155,
+      0.0
+    ],
+    "defpoint3": [
+      41614.45267431475,
+      5798.627325597998,
+      0.0
+    ],
+    "angle": 90.0,
+    "measured": 93.99280479884237
+  },
+  {
+    "handle": "12A784",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3072",
+    "defpoint": [
+      41578.76290671861,
+      5770.425215936921,
+      0.0
+    ],
+    "text_midpoint": [
+      41614.76290671861,
+      5776.103787365492,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 72.0,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41650.76290671861,
+      5770.849619645451,
+      0.0
+    ],
+    "defpoint3": [
+      41578.76290671861,
+      5770.425215936921,
+      0.0
+    ],
+    "angle": 180.0,
+    "measured": 72.0
+  },
+  {
+    "handle": "12A7E4",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3074",
+    "defpoint": [
+      41613.72376150688,
+      5600.611180257605,
+      0.0
+    ],
+    "text_midpoint": [
+      41608.0451900783,
+      5647.607582657013,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 93.99280479884237,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41614.45267431475,
+      5694.603985056446,
+      0.0
+    ],
+    "defpoint3": [
+      41614.45267431475,
+      5600.611180257603,
+      0.0
+    ],
+    "angle": 270.0,
+    "measured": 93.99280479884237
+  },
+  {
+    "handle": "12A894",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3076",
+    "defpoint": [
+      41671.56058594418,
+      11242.02184199541,
+      0.0
+    ],
+    "text_midpoint": [
+      41689.56058594418,
+      11247.70041342398,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 36.0,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41707.56058594418,
+      11257.14885039823,
+      0.0
+    ],
+    "defpoint3": [
+      41671.56058594418,
+      11252.13255100246,
+      0.0
+    ],
+    "angle": 180.0,
+    "measured": 36.0
+  },
+  {
+    "handle": "12A9C2",
+    "owner": "2",
+    "layer": "LIGHT",
+    "version": 0,
+    "geometry": "*D3077",
+    "defpoint": [
+      41943.0553830412,
+      7135.139725055287,
+      0.0
+    ],
+    "text_midpoint": [
+      41937.37681161262,
+      7075.195958772707,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 119.8875325651334,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41936.15258108007,
+      7015.25219249015,
+      0.0
+    ],
+    "defpoint3": [
+      41936.22013681698,
+      7135.139725055284,
+      0.0
+    ],
+    "angle": 90.0,
+    "measured": 119.88753256513337
+  },
+  {
+    "handle": "12A9E5",
+    "owner": "2",
+    "layer": "LIGHT",
+    "version": 0,
+    "geometry": "*D3079",
+    "defpoint": [
+      41870.36286274385,
+      7052.417656532867,
+      0.0
+    ],
+    "text_midpoint": [
+      41954.95909554347,
+      7058.096227961439,
+      0.0
+    ],
+    "dimtype": 160,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 156.0070775378117,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      42026.36994028166,
+      7052.836913201114,
+      0.0
+    ],
+    "defpoint3": [
+      41870.36286274385,
+      7052.836913201114,
+      0.0
+    ],
+    "measured": 156.00707753780443
+  },
+  {
+    "handle": "12AA47",
+    "owner": "2",
+    "layer": "LIGHT",
+    "version": 0,
+    "geometry": "*D3080",
+    "defpoint": [
+      41517.57675329923,
+      10014.53384505093,
+      0.0
+    ],
+    "text_midpoint": [
+      41511.89818187064,
+      9990.93819454599,
+      0.0
+    ],
+    "dimtype": 160,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 71.99999999999818,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41516.09064950973,
+      9942.533845050928,
+      0.0
+    ],
+    "defpoint3": [
+      41516.09064950972,
+      10014.53384505093,
+      0.0
+    ],
+    "angle": 90.0,
+    "measured": 72.00000000000182
+  },
+  {
+    "handle": "12AA54",
+    "owner": "2",
+    "layer": "LIGHT",
+    "version": 0,
+    "geometry": "*D3081",
+    "defpoint": [
+      41446.82434212761,
+      9972.533846050927,
+      0.0
+    ],
+    "text_midpoint": [
+      41505.34467546095,
+      9978.807952515723,
+      0.0
+    ],
+    "dimtype": 160,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 117.0406666666677,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41563.86500879428,
+      9974.58775885556,
+      0.0
+    ],
+    "defpoint3": [
+      41446.82434212761,
+      9974.587758855556,
+      0.0
+    ],
+    "measured": 117.04066666666768
+  },
+  {
+    "handle": "12AA87",
+    "owner": "2",
+    "layer": "LIGHT",
+    "version": 0,
+    "geometry": "*D3082",
+    "defpoint": [
+      41517.57675329925,
+      9869.589371322509,
+      0.0
+    ],
+    "text_midpoint": [
+      41511.89818187067,
+      9903.061608186707,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 66.94447372842114,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41509.29777847034,
+      9936.533845050926,
+      0.0
+    ],
+    "defpoint3": [
+      41509.29777847034,
+      9869.589371322505,
+      0.0
+    ],
+    "angle": 90.0,
+    "measured": 66.94447372842114
+  },
+  {
+    "handle": "12AA94",
+    "owner": "2",
+    "layer": "LIGHT",
+    "version": 0,
+    "geometry": "*D3083",
+    "defpoint": [
+      41446.82434212761,
+      9911.847802497869,
+      0.0
+    ],
+    "text_midpoint": [
+      41505.34467546095,
+      9917.52637392644,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 117.0406666666677,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41563.86500879428,
+      9920.490133831408,
+      0.0
+    ],
+    "defpoint3": [
+      41446.82434212761,
+      9920.490133831405,
+      0.0
+    ],
+    "measured": 117.04066666666768
+  },
+  {
+    "handle": "12AAA1",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3084",
+    "defpoint": [
+      41633.79488460821,
+      9769.33806646028,
+      0.0
+    ],
+    "text_midpoint": [
+      41606.30650921533,
+      9775.01663788885,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 54.97675078574684,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41578.81813382246,
+      9769.33806646028,
+      0.0
+    ],
+    "defpoint3": [
+      41633.79488460821,
+      9769.33806646028,
+      0.0
+    ],
+    "measured": 54.976750785746844
+  },
+  {
+    "handle": "12AAAE",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3085",
+    "defpoint": [
+      41595.87226526169,
+      9703.547371322515,
+      0.0
+    ],
+    "text_midpoint": [
+      41590.19369383311,
+      9757.547371322498,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 107.9999999999927,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41595.87226526167,
+      9811.547371322504,
+      0.0
+    ],
+    "defpoint3": [
+      41595.87226526163,
+      9703.547371322511,
+      0.0
+    ],
+    "angle": 90.0,
+    "measured": 107.99999999999272
+  },
+  {
+    "handle": "12AAF8",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3086",
+    "defpoint": [
+      41681.70591030671,
+      9863.589371322507,
+      0.0
+    ],
+    "text_midpoint": [
+      41676.02733887814,
+      9840.568371322499,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 46.04199999998855,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41695.13420317284,
+      9817.547371322515,
+      0.0
+    ],
+    "defpoint3": [
+      41695.13420317284,
+      9863.589371322503,
+      0.0
+    ],
+    "angle": 90.0,
+    "measured": 46.04199999998855
+  },
+  {
+    "handle": "12AB05",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3087",
+    "defpoint": [
+      41731.5725740937,
+      9825.425749347167,
+      0.0
+    ],
+    "text_midpoint": [
+      41655.19535395808,
+      9832.363249347167,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 152.7544402712374,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41578.81813382246,
+      9825.425749347167,
+      0.0
+    ],
+    "defpoint3": [
+      41731.5725740937,
+      9825.425749347167,
+      0.0
+    ],
+    "measured": 152.7544402712374
+  },
+  {
+    "handle": "12ABA0",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3088",
+    "defpoint": [
+      41943.21618559177,
+      11014.16504301352,
+      0.0
+    ],
+    "text_midpoint": [
+      41937.53761416319,
+      11074.1650430135,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 120.0,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41943.21618559193,
+      11134.16504301351,
+      0.0
+    ],
+    "defpoint3": [
+      41943.21618559193,
+      11014.16504301351,
+      0.0
+    ],
+    "angle": 270.0,
+    "measured": 120.0
+  },
+  {
+    "handle": "12ABA1",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3089",
+    "defpoint": [
+      41870.52366529451,
+      11118.55459705753,
+      0.0
+    ],
+    "text_midpoint": [
+      41940.19467037773,
+      11125.49209705753,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 139.3420101664378,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      42009.86567546095,
+      11079.73591642957,
+      0.0
+    ],
+    "defpoint3": [
+      41870.52366529451,
+      11087.0247607023,
+      0.0
+    ],
+    "angle": 180.0,
+    "measured": 139.34201016643783
+  },
+  {
+    "handle": "12ABB8",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3090",
+    "defpoint": [
+      41826.52366529451,
+      11092.66029736134,
+      0.0
+    ],
+    "text_midpoint": [
+      41784.48966083003,
+      11098.33886878991,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 84.06800892896717,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41742.45565636554,
+      11092.66029736121,
+      0.0
+    ],
+    "defpoint3": [
+      41826.52366529451,
+      11092.66029736128,
+      0.0
+    ],
+    "angle": 180.0,
+    "measured": 84.06800892896717
+  },
+  {
+    "handle": "12ABBB",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3091",
+    "defpoint": [
+      41784.74354014914,
+      11134.16504301352,
+      0.0
+    ],
+    "text_midpoint": [
+      41784.74354014915,
+      11084.02581470297,
+      0.0
+    ],
+    "dimtype": 160,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 76.00000000000546,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41773.78353114246,
+      11058.16504301351,
+      0.0
+    ],
+    "defpoint3": [
+      41773.78353114246,
+      11134.16504301352,
+      0.0
+    ],
+    "angle": 270.0,
+    "measured": 76.0000000000091
+  },
+  {
+    "handle": "12ABBC",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3092",
+    "defpoint": [
+      41943.21618559172,
+      11325.15151674193,
+      0.0
+    ],
+    "text_midpoint": [
+      41937.53761416314,
+      11232.65827987771,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 184.9864737284115,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41940.33125159136,
+      11140.16504301351,
+      0.0
+    ],
+    "defpoint3": [
+      41940.33125159136,
+      11325.15151674192,
+      0.0
+    ],
+    "angle": 270.0,
+    "measured": 184.9864737284097
+  },
+  {
+    "handle": "12ABBD",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3093",
+    "defpoint": [
+      41741.77543332842,
+      11233.56121626385,
+      0.0
+    ],
+    "text_midpoint": [
+      41875.82055439468,
+      11239.23978769242,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 268.0902421325372,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      42009.86567546095,
+      11230.37116903337,
+      0.0
+    ],
+    "defpoint3": [
+      41741.77543332842,
+      11230.37116903337,
+      0.0
+    ],
+    "angle": 180.0,
+    "measured": 268.09024213252997
+  },
+  {
+    "handle": "12ABBF",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3094",
+    "defpoint": [
+      41832.5236652945,
+      11118.55459705753,
+      0.0
+    ],
+    "text_midpoint": [
+      41851.5236652945,
+      11124.2331684861,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 38.00000000000728,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41870.52366529451,
+      11101.58256328305,
+      0.0
+    ],
+    "defpoint3": [
+      41832.5236652945,
+      11095.88447639108,
+      0.0
+    ],
+    "angle": 180.0,
+    "measured": 38.000000000007276
+  },
+  {
+    "handle": "12ABC1",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3095",
+    "defpoint": [
+      41850.38358771716,
+      11265.16072490406,
+      0.0
+    ],
+    "text_midpoint": [
+      41844.70501628858,
+      11283.16072490404,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 36.0,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41865.51059611996,
+      11301.16072490405,
+      0.0
+    ],
+    "defpoint3": [
+      41860.49429672419,
+      11265.16072490405,
+      0.0
+    ],
+    "angle": 270.0,
+    "measured": 36.0
+  },
+  {
+    "handle": "12ABF5",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3096",
+    "defpoint": [
+      41801.78742147794,
+      11242.02184199541,
+      0.0
+    ],
+    "text_midpoint": [
+      41783.78742147794,
+      11247.70041342398,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 36.0,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41765.78742147794,
+      11257.14885039823,
+      0.0
+    ],
+    "defpoint3": [
+      41801.78742147794,
+      11252.13255100246,
+      0.0
+    ],
+    "angle": 7.016709298534877e-15,
+    "measured": 36.0
+  },
+  {
+    "handle": "12AD4E",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3097",
+    "defpoint": [
+      41646.82434212761,
+      10925.60871718028,
+      0.0
+    ],
+    "text_midpoint": [
+      41688.85834659209,
+      10931.28728860885,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 84.06800892896717,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41730.89235105657,
+      10925.6087171804,
+      0.0
+    ],
+    "defpoint3": [
+      41646.82434212761,
+      10925.60871718033,
+      0.0
+    ],
+    "measured": 84.0680089289599
+  },
+  {
+    "handle": "12AD51",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3098",
+    "defpoint": [
+      41688.60446727301,
+      10884.1039715281,
+      0.0
+    ],
+    "text_midpoint": [
+      41688.60446727296,
+      10934.24319983865,
+      0.0
+    ],
+    "dimtype": 160,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 76.00000000000546,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41699.56447627966,
+      10960.1039715281,
+      0.0
+    ],
+    "defpoint3": [
+      41699.56447627966,
+      10884.10397152809,
+      0.0
+    ],
+    "angle": 90.00000000000001,
+    "measured": 76.00000000001091
+  },
+  {
+    "handle": "12AD53",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3099",
+    "defpoint": [
+      41640.82434212761,
+      10899.71441748409,
+      0.0
+    ],
+    "text_midpoint": [
+      41621.82434212761,
+      10905.39298891266,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 38.00000000000728,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41602.82434212761,
+      10916.68645125857,
+      0.0
+    ],
+    "defpoint3": [
+      41640.82434212761,
+      10922.38453815053,
+      0.0
+    ],
+    "measured": 38.0
+  },
+  {
+    "handle": "12ADE8",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3101",
+    "defpoint": [
+      41943.21618559179,
+      11004.1039715281,
+      0.0
+    ],
+    "text_midpoint": [
+      41937.53761416322,
+      10944.10397152809,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 120.0,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41943.21618559193,
+      10884.1039715281,
+      0.0
+    ],
+    "defpoint3": [
+      41943.21618559193,
+      11004.1039715281,
+      0.0
+    ],
+    "angle": 90.00000000000001,
+    "measured": 120.0
+  },
+  {
+    "handle": "12ADE9",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3102",
+    "defpoint": [
+      41870.52366529451,
+      10899.71441748409,
+      0.0
+    ],
+    "text_midpoint": [
+      41948.44680278809,
+      10906.65191748409,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 155.8462749871542,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      42026.36994028166,
+      10938.53309811204,
+      0.0
+    ],
+    "defpoint3": [
+      41870.52366529451,
+      10931.24425383931,
+      0.0
+    ],
+    "angle": 180.0,
+    "measured": 155.8462749871469
+  },
+  {
+    "handle": "12AE00",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3103",
+    "defpoint": [
+      41826.52366529451,
+      10925.60871718028,
+      0.0
+    ],
+    "text_midpoint": [
+      41784.48966083003,
+      10931.28728860885,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 84.06800892896717,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41742.45565636554,
+      10925.6087171804,
+      0.0
+    ],
+    "defpoint3": [
+      41826.52366529451,
+      10925.60871718033,
+      0.0
+    ],
+    "angle": 180.0,
+    "measured": 84.06800892896717
+  },
+  {
+    "handle": "12AE03",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3104",
+    "defpoint": [
+      41784.74354014917,
+      10884.1039715281,
+      0.0
+    ],
+    "text_midpoint": [
+      41784.74354014915,
+      10934.24319983865,
+      0.0
+    ],
+    "dimtype": 160,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 76.00000000000546,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41773.78353114246,
+      10960.1039715281,
+      0.0
+    ],
+    "defpoint3": [
+      41773.78353114246,
+      10884.10397152809,
+      0.0
+    ],
+    "angle": 90.00000000000001,
+    "measured": 76.00000000001091
+  },
+  {
+    "handle": "12AE04",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3105",
+    "defpoint": [
+      41742.1009340189,
+      10774.61475623465,
+      0.0
+    ],
+    "text_midpoint": [
+      41884.39818749552,
+      10781.55225623465,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 284.5945069532463,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      42026.69544097214,
+      10777.80480346514,
+      0.0
+    ],
+    "defpoint3": [
+      41742.1009340189,
+      10777.80480346514,
+      0.0
+    ],
+    "angle": 180.0,
+    "measured": 284.59450695323903
+  },
+  {
+    "handle": "12AE06",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3106",
+    "defpoint": [
+      41832.5236652945,
+      10899.71441748409,
+      0.0
+    ],
+    "text_midpoint": [
+      41851.5236652945,
+      10905.39298891266,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 38.00000000000728,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41870.52366529451,
+      10916.68645125857,
+      0.0
+    ],
+    "defpoint3": [
+      41832.5236652945,
+      10922.38453815053,
+      0.0
+    ],
+    "angle": 180.0,
+    "measured": 38.000000000007276
+  },
+  {
+    "handle": "12B010",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3110",
+    "defpoint": [
+      41731.5725740937,
+      9498.836327730376,
+      0.0
+    ],
+    "text_midpoint": [
+      41647.71879144399,
+      9505.773827730376,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 167.7075652994172,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41563.86500879428,
+      9516.23707760478,
+      0.0
+    ],
+    "defpoint3": [
+      41731.5725740937,
+      9516.23707760478,
+      0.0
+    ],
+    "measured": 167.70756529941718
+  },
+  {
+    "handle": "12B043",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3112",
+    "defpoint": [
+      41517.57675329936,
+      9553.937465176481,
+      0.0
+    ],
+    "text_midpoint": [
+      41510.63925329936,
+      9521.747528356364,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 64.37987364020955,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41509.29777847034,
+      9489.557591536268,
+      0.0
+    ],
+    "defpoint3": [
+      41509.29777847034,
+      9553.937465176477,
+      0.0
+    ],
+    "angle": 270.0,
+    "measured": 64.37987364020955
+  },
+  {
+    "handle": "12B044",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3113",
+    "defpoint": [
+      41633.79488460821,
+      9627.75667618475,
+      0.0
+    ],
+    "text_midpoint": [
+      41606.30650921533,
+      9633.43524761332,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 54.97675078574684,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41578.81813382246,
+      9627.75667618475,
+      0.0
+    ],
+    "defpoint3": [
+      41633.79488460821,
+      9627.75667618475,
+      0.0
+    ],
+    "measured": 54.976750785746844
+  },
+  {
+    "handle": "12B056",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3114",
+    "defpoint": [
+      41681.70591030677,
+      9559.937465176487,
+      0.0
+    ],
+    "text_midpoint": [
+      41676.02733887819,
+      9582.958465176469,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 46.04199999998855,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41695.13420317284,
+      9605.979465176471,
+      0.0
+    ],
+    "defpoint3": [
+      41695.13420317284,
+      9559.937465176483,
+      0.0
+    ],
+    "angle": 270.0,
+    "measured": 46.04199999998855
+  },
+  {
+    "handle": "12B14E",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3116",
+    "defpoint": [
+      41740.88673427373,
+      9924.69050876861,
+      0.0
+    ],
+    "text_midpoint": [
+      41824.74051692344,
+      9931.62800876861,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 167.7075652994172,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41908.59429957315,
+      9907.289758894207,
+      0.0
+    ],
+    "defpoint3": [
+      41740.88673427373,
+      9907.289758894207,
+      0.0
+    ],
+    "angle": 180.0,
+    "measured": 167.70756529942446
+  },
+  {
+    "handle": "12B14F",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3118",
+    "defpoint": [
+      41861.75531151157,
+      9863.589371322507,
+      0.0
+    ],
+    "text_midpoint": [
+      41856.07674008299,
+      9939.061608186705,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 150.9444737284211,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41871.38923880873,
+      10014.53384505092,
+      0.0
+    ],
+    "defpoint3": [
+      41862.59544663313,
+      9863.589371322503,
+      0.0
+    ],
+    "angle": 90.0,
+    "measured": 150.9444737284175
+  },
+  {
+    "handle": "12B150",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3119",
+    "defpoint": [
+      41925.72986476996,
+      9869.589371322507,
+      0.0
+    ],
+    "text_midpoint": [
+      41920.05129334138,
+      9786.568371322499,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 166.0419999999885,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41925.7298647701,
+      9703.547371322515,
+      0.0
+    ],
+    "defpoint3": [
+      41925.72986477007,
+      9869.589371322503,
+      0.0
+    ],
+    "angle": 90.0,
+    "measured": 166.04199999998855
+  },
+  {
+    "handle": "12B151",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3117",
+    "defpoint": [
+      41973.35370347621,
+      9863.58937132252,
+      0.0
+    ],
+    "text_midpoint": [
+      41967.67513204763,
+      9848.589371322512,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 29.99999999998909,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41951.05581617346,
+      9833.589371322527,
+      0.0
+    ],
+    "defpoint3": [
+      41951.05581617344,
+      9863.589371322516,
+      0.0
+    ],
+    "angle": 90.0,
+    "measured": 29.999999999989086
+  },
+  {
+    "handle": "12B183",
+    "owner": "2",
+    "layer": "LIGHT",
+    "version": 0,
+    "geometry": "*D3120",
+    "defpoint": [
+      41954.88255506819,
+      10014.53384505093,
+      0.0
+    ],
+    "text_midpoint": [
+      41960.56112649679,
+      9990.93819454599,
+      0.0
+    ],
+    "dimtype": 160,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 71.99999999999818,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41956.3686588577,
+      9942.533845050928,
+      0.0
+    ],
+    "defpoint3": [
+      41956.3686588577,
+      10014.53384505093,
+      0.0
+    ],
+    "angle": 90.0,
+    "measured": 72.00000000000182
+  },
+  {
+    "handle": "12B184",
+    "owner": "2",
+    "layer": "LIGHT",
+    "version": 0,
+    "geometry": "*D3121",
+    "defpoint": [
+      42025.63496623981,
+      9972.533846050927,
+      0.0
+    ],
+    "text_midpoint": [
+      41967.11463290648,
+      9978.807952515723,
+      0.0
+    ],
+    "dimtype": 160,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 117.0406666666677,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41908.59429957315,
+      9974.58775885556,
+      0.0
+    ],
+    "defpoint3": [
+      42025.63496623981,
+      9974.587758855556,
+      0.0
+    ],
+    "angle": 180.0,
+    "measured": 117.0406666666604
+  },
+  {
+    "handle": "12B185",
+    "owner": "2",
+    "layer": "LIGHT",
+    "version": 0,
+    "geometry": "*D3122",
+    "defpoint": [
+      41939.16312169064,
+      9869.589371322509,
+      0.0
+    ],
+    "text_midpoint": [
+      41933.48455026206,
+      9903.061608186707,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 66.94447372842114,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41947.44209651953,
+      9936.533845050926,
+      0.0
+    ],
+    "defpoint3": [
+      41947.44209651953,
+      9869.589371322505,
+      0.0
+    ],
+    "angle": 90.0,
+    "measured": 66.94447372842114
+  },
+  {
+    "handle": "12B186",
+    "owner": "2",
+    "layer": "LIGHT",
+    "version": 0,
+    "geometry": "*D3123",
+    "defpoint": [
+      42025.63496623981,
+      9911.847802497869,
+      0.0
+    ],
+    "text_midpoint": [
+      41967.11463290648,
+      9917.52637392644,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 117.0406666666677,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41908.59429957315,
+      9920.490133831408,
+      0.0
+    ],
+    "defpoint3": [
+      42025.63496623981,
+      9920.490133831405,
+      0.0
+    ],
+    "angle": 180.0,
+    "measured": 117.0406666666604
+  },
+  {
+    "handle": "12B187",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3124",
+    "defpoint": [
+      41838.66442375922,
+      9769.33806646028,
+      0.0
+    ],
+    "text_midpoint": [
+      41866.15279915209,
+      9775.01663788885,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 54.97675078574684,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41893.64117454497,
+      9769.33806646028,
+      0.0
+    ],
+    "defpoint3": [
+      41838.66442375922,
+      9769.33806646028,
+      0.0
+    ],
+    "angle": 180.0,
+    "measured": 54.97675078575412
+  },
+  {
+    "handle": "12B188",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3125",
+    "defpoint": [
+      41876.58704310573,
+      9703.547371322515,
+      0.0
+    ],
+    "text_midpoint": [
+      41870.90847167715,
+      9757.547371322498,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 107.9999999999927,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41876.58704310576,
+      9811.547371322504,
+      0.0
+    ],
+    "defpoint3": [
+      41876.58704310579,
+      9703.547371322511,
+      0.0
+    ],
+    "angle": 90.0,
+    "measured": 107.99999999999272
+  },
+  {
+    "handle": "12B19A",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3126",
+    "defpoint": [
+      41790.75339806071,
+      9863.589371322507,
+      0.0
+    ],
+    "text_midpoint": [
+      41785.07482663213,
+      9840.568371322499,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 46.04199999998855,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41777.32510519458,
+      9817.547371322515,
+      0.0
+    ],
+    "defpoint3": [
+      41777.32510519458,
+      9863.589371322503,
+      0.0
+    ],
+    "angle": 90.0,
+    "measured": 46.04199999998855
+  },
+  {
+    "handle": "12B1D0",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3127",
+    "defpoint": [
+      41740.88673427373,
+      9512.295847999909,
+      0.0
+    ],
+    "text_midpoint": [
+      41824.74051692344,
+      9519.233347999909,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 167.7075652994172,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41908.59429957315,
+      9533.117645550434,
+      0.0
+    ],
+    "defpoint3": [
+      41740.88673427373,
+      9529.696597874312,
+      0.0
+    ],
+    "angle": 180.0,
+    "measured": 167.70756529942446
+  },
+  {
+    "handle": "12B200",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3129",
+    "defpoint": [
+      41954.88255506818,
+      9553.937465176487,
+      0.0
+    ],
+    "text_midpoint": [
+      41947.94505506817,
+      9521.194989447029,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 65.48495145888955,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41963.16152989709,
+      9488.452513717593,
+      0.0
+    ],
+    "defpoint3": [
+      41963.16152989709,
+      9553.937465176483,
+      0.0
+    ],
+    "angle": 270.0,
+    "measured": 65.48495145888955
+  },
+  {
+    "handle": "12B201",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3130",
+    "defpoint": [
+      41838.66442375922,
+      9627.75667618475,
+      0.0
+    ],
+    "text_midpoint": [
+      41866.15279915209,
+      9633.43524761332,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 54.97675078574684,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41893.64117454497,
+      9627.75667618475,
+      0.0
+    ],
+    "defpoint3": [
+      41838.66442375922,
+      9627.75667618475,
+      0.0
+    ],
+    "angle": 180.0,
+    "measured": 54.97675078575412
+  },
+  {
+    "handle": "12B212",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3131",
+    "defpoint": [
+      41790.75339806068,
+      9559.937465176485,
+      0.0
+    ],
+    "text_midpoint": [
+      41785.0748266321,
+      9582.958465176465,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 46.04199999998855,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41777.32510519458,
+      9605.97946517647,
+      0.0
+    ],
+    "defpoint3": [
+      41777.32510519458,
+      9559.937465176481,
+      0.0
+    ],
+    "angle": 270.0,
+    "measured": 46.04199999998855
+  },
+  {
+    "handle": "12B37E",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3133",
+    "defpoint": [
+      41572.81813382245,
+      9627.236656683599,
+      0.0
+    ],
+    "text_midpoint": [
+      41495.04424594942,
+      9627.236656683599,
+      0.0
+    ],
+    "dimtype": 160,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 125.9937916948402,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41446.82434212761,
+      9624.093526529621,
+      0.0
+    ],
+    "defpoint3": [
+      41572.81813382245,
+      9624.517223306022,
+      0.0
+    ],
+    "measured": 125.99379169484018
+  },
+  {
+    "handle": "12B411",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3134",
+    "defpoint": [
+      42025.6349662398,
+      9627.236656683599,
+      0.0
+    ],
+    "text_midpoint": [
+      41962.63807039238,
+      9632.91522811217,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 125.9937916948402,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41899.64117454496,
+      9624.093526529621,
+      0.0
+    ],
+    "defpoint3": [
+      42025.6349662398,
+      9624.517223306022,
+      0.0
+    ],
+    "measured": 125.99379169484018
+  },
+  {
+    "handle": "12B42F",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3135",
+    "defpoint": [
+      41866.39691983329,
+      10733.07018340859,
+      0.0
+    ],
+    "text_midpoint": [
+      41860.71834840471,
+      10805.58707746834,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 145.0337881195101,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41918.21128645253,
+      10878.1039715281,
+      0.0
+    ],
+    "defpoint3": [
+      41918.21128645253,
+      10733.07018340859,
+      0.0
+    ],
+    "angle": 90.0,
+    "measured": 145.03378811951006
+  },
+  {
+    "handle": "12B445",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3136",
+    "defpoint": [
+      41646.10842353823,
+      10878.10397152811,
+      0.0
+    ],
+    "text_midpoint": [
+      41640.42985210965,
+      10805.58707746834,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 145.0337881195119,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41650.82434212761,
+      10733.07018340859,
+      0.0
+    ],
+    "defpoint3": [
+      41650.82434212761,
+      10878.1039715281,
+      0.0
+    ],
+    "angle": 90.0,
+    "measured": 145.03378811951006
+  },
+  {
+    "handle": "12B45B",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3137",
+    "defpoint": [
+      41731.5725740937,
+      10774.61475623465,
+      0.0
+    ],
+    "text_midpoint": [
+      41589.19845811065,
+      10781.55225623465,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 284.7482319660849,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41446.82434212761,
+      10788.29113107617,
+      0.0
+    ],
+    "defpoint3": [
+      41731.5725740937,
+      10788.29113107617,
+      0.0
+    ],
+    "measured": 284.74823196608486
+  },
+  {
+    "handle": "12B471",
+    "owner": "2",
+    "layer": "LIGHT",
+    "version": 0,
+    "geometry": "*D3138",
+    "defpoint": [
+      41532.17461042677,
+      10884.1039715281,
+      0.0
+    ],
+    "text_midpoint": [
+      41526.49603899819,
+      10944.1345072708,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 120.061071485412,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41548.77264563544,
+      11004.16504301351,
+      0.0
+    ],
+    "defpoint3": [
+      41548.77264563544,
+      10884.1039715281,
+      0.0
+    ],
+    "angle": 90.0,
+    "measured": 120.06107148541014
+  },
+  {
+    "handle": "12B47E",
+    "owner": "2",
+    "layer": "LIGHT",
+    "version": 0,
+    "geometry": "*D3139",
+    "defpoint": [
+      41602.82434212761,
+      10914.37916882006,
+      0.0
+    ],
+    "text_midpoint": [
+      41524.82434212761,
+      10920.05774024863,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 155.9999999999782,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41446.82434212763,
+      10926.49428595105,
+      0.0
+    ],
+    "defpoint3": [
+      41602.82434212761,
+      10927.35474836361,
+      0.0
+    ],
+    "measured": 155.99999999998545
+  },
+  {
+    "handle": "12B535",
+    "owner": "2",
+    "layer": "LIGHT",
+    "version": 0,
+    "geometry": "*D3140",
+    "defpoint": [
+      41545.87518196552,
+      6819.239075236412,
+      0.0
+    ],
+    "text_midpoint": [
+      41540.19661053694,
+      6801.239075236398,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 36.0,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41546.88792735175,
+      6783.239075236408,
+      0.0
+    ],
+    "defpoint3": [
+      41546.88792735175,
+      6819.239075236408,
+      0.0
+    ],
+    "angle": 90.0,
+    "measured": 36.0
+  },
+  {
+    "handle": "12B7FE",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3141",
+    "defpoint": [
+      41530.13182183032,
+      15027.83051544763,
+      0.0
+    ],
+    "text_midpoint": [
+      41524.45325040174,
+      14967.83051544762,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 120.0,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41530.13182183019,
+      14907.83051544763,
+      0.0
+    ],
+    "defpoint3": [
+      41530.13182183019,
+      15027.83051544763,
+      0.0
+    ],
+    "angle": 90.0,
+    "measured": 120.0
+  },
+  {
+    "handle": "12B7FF",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3142",
+    "defpoint": [
+      41602.82434212761,
+      14923.44096140361,
+      0.0
+    ],
+    "text_midpoint": [
+      41524.82434212761,
+      14929.11953283218,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 155.9999999999854,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41446.82434212762,
+      14962.25964203157,
+      0.0
+    ],
+    "defpoint3": [
+      41602.82434212761,
+      14954.97079775884,
+      0.0
+    ],
+    "measured": 155.99999999999272
+  },
+  {
+    "handle": "12BA8D",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3143",
+    "defpoint": [
+      41546.81048394357,
+      13717.21284375664,
+      0.0
+    ],
+    "text_midpoint": [
+      41541.13191251499,
+      13640.19184375663,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 154.0419999999776,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41546.81048394337,
+      13563.17084375665,
+      0.0
+    ],
+    "defpoint3": [
+      41546.81048394337,
+      13717.21284375663,
+      0.0
+    ],
+    "angle": 90.0,
+    "measured": 154.04199999997945
+  },
+  {
+    "handle": "12BA8E",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3144",
+    "defpoint": [
+      41572.81813382246,
+      13625.7884400481,
+      0.0
+    ],
+    "text_midpoint": [
+      41509.82123797504,
+      13631.46701147667,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 125.9937916948402,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41446.82434212762,
+      13664.60712067605,
+      0.0
+    ],
+    "defpoint3": [
+      41572.81813382246,
+      13657.31827640332,
+      0.0
+    ],
+    "measured": 125.99379169484018
+  },
+  {
+    "handle": "12BB27",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3159",
+    "defpoint": [
+      41926.12858177173,
+      13717.21284375664,
+      0.0
+    ],
+    "text_midpoint": [
+      41920.45001034315,
+      13640.19184375663,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 154.0419999999776,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41926.12858177179,
+      13563.17084375665,
+      0.0
+    ],
+    "defpoint3": [
+      41926.12858177179,
+      13717.21284375663,
+      0.0
+    ],
+    "angle": 90.0,
+    "measured": 154.04199999997945
+  },
+  {
+    "handle": "12BB28",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3160",
+    "defpoint": [
+      41900.11472358753,
+      13625.7884400481,
+      0.0
+    ],
+    "text_midpoint": [
+      41963.11472358753,
+      13631.46701147667,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 126.0,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      42026.11472358753,
+      13664.60712067605,
+      0.0
+    ],
+    "defpoint3": [
+      41900.11472358753,
+      13656.93227513418,
+      0.0
+    ],
+    "angle": 180.0,
+    "measured": 126.0
+  },
+  {
+    "handle": "12BBDA",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3145",
+    "defpoint": [
+      41446.82434212761,
+      13948.35598120272,
+      0.0
+    ],
+    "text_midpoint": [
+      41530.67812477732,
+      13955.29348120272,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 167.7075652994172,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41614.53190742703,
+      13930.95523132832,
+      0.0
+    ],
+    "defpoint3": [
+      41446.82434212761,
+      13930.95523132832,
+      0.0
+    ],
+    "angle": 180.0,
+    "measured": 167.70756529941718
+  },
+  {
+    "handle": "12BC4D",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3148",
+    "defpoint": [
+      41582.61360508393,
+      13887.25484375662,
+      0.0
+    ],
+    "text_midpoint": [
+      41576.93503365535,
+      13962.72708062082,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 150.9444737284211,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41592.24753238105,
+      14038.19931748504,
+      0.0
+    ],
+    "defpoint3": [
+      41583.45374020546,
+      13887.25484375662,
+      0.0
+    ],
+    "angle": 90.0,
+    "measured": 150.94447372841933
+  },
+  {
+    "handle": "12BC4E",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3149",
+    "defpoint": [
+      41581.23022004872,
+      13446.11798415171,
+      0.0
+    ],
+    "text_midpoint": [
+      41575.55164862014,
+      13507.64441395417,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 123.0528596049353,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41581.23022004859,
+      13569.17084375664,
+      0.0
+    ],
+    "defpoint3": [
+      41581.23022004859,
+      13446.1179841517,
+      0.0
+    ],
+    "angle": 90.0,
+    "measured": 123.05285960493893
+  },
+  {
+    "handle": "12BC50",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3151",
+    "defpoint": [
+      41546.72944359746,
+      13893.25484375662,
+      0.0
+    ],
+    "text_midpoint": [
+      41541.05087216888,
+      13810.23384375662,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 166.0419999999885,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41546.72944359733,
+      13727.21284375663,
+      0.0
+    ],
+    "defpoint3": [
+      41546.72944359736,
+      13893.25484375662,
+      0.0
+    ],
+    "angle": 90.0,
+    "measured": 166.04199999999037
+  },
+  {
+    "handle": "12BC51",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3152",
+    "defpoint": [
+      41572.81813382245,
+      13793.00353889439,
+      0.0
+    ],
+    "text_midpoint": [
+      41509.82123797503,
+      13798.68211032296,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 125.9937916948402,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41446.82434212761,
+      13789.86040874041,
+      0.0
+    ],
+    "defpoint3": [
+      41572.81813382245,
+      13790.28410551682,
+      0.0
+    ],
+    "measured": 125.99379169484018
+  },
+  {
+    "handle": "12BC52",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3153",
+    "defpoint": [
+      41926.12858177174,
+      13893.25484375662,
+      0.0
+    ],
+    "text_midpoint": [
+      41920.45001034316,
+      13810.23384375661,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 166.0419999999904,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41923.5345329743,
+      13727.21284375663,
+      0.0
+    ],
+    "defpoint3": [
+      41923.5345329743,
+      13893.25484375662,
+      0.0
+    ],
+    "angle": 90.0,
+    "measured": 166.04199999999037
+  },
+  {
+    "handle": "12BC53",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3154",
+    "defpoint": [
+      42026.11472358752,
+      13751.57328873716,
+      0.0
+    ],
+    "text_midpoint": [
+      41963.11472358753,
+      13757.25186016573,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 125.9999999999927,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41900.11472358753,
+      13748.43015858318,
+      0.0
+    ],
+    "defpoint3": [
+      42026.11472358752,
+      13748.85385535958,
+      0.0
+    ],
+    "measured": 125.99999999998545
+  },
+  {
+    "handle": "12BC54",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3155",
+    "defpoint": [
+      41908.88438626898,
+      13887.25484375662,
+      0.0
+    ],
+    "text_midpoint": [
+      41903.2058148404,
+      13962.72708062082,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 150.9444737284211,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41899.25045897176,
+      14038.19931748503,
+      0.0
+    ],
+    "defpoint3": [
+      41899.25045897176,
+      13887.25484375661,
+      0.0
+    ],
+    "angle": 90.0,
+    "measured": 150.94447372842114
+  },
+  {
+    "handle": "12BC5A",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3166",
+    "defpoint": [
+      41530.13182183035,
+      14756.73565584271,
+      0.0
+    ],
+    "text_midpoint": [
+      41524.45325040177,
+      14829.28308564516,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 145.094859604922,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41533.01675583076,
+      14901.83051544763,
+      0.0
+    ],
+    "defpoint3": [
+      41533.01675583076,
+      14756.7356558427,
+      0.0
+    ],
+    "angle": 90.0,
+    "measured": 145.0948596049293
+  },
+  {
+    "handle": "12BC5B",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3167",
+    "defpoint": [
+      41731.5725740937,
+      14808.43434219729,
+      0.0
+    ],
+    "text_midpoint": [
+      41589.19845811065,
+      14815.37184219729,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 284.7482319660849,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41446.82434212761,
+      14811.62438942777,
+      0.0
+    ],
+    "defpoint3": [
+      41731.5725740937,
+      14811.62438942777,
+      0.0
+    ],
+    "measured": 284.74823196608486
+  },
+  {
+    "handle": "12BC86",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3168",
+    "defpoint": [
+      41483.38617151367,
+      13887.25484375664,
+      0.0
+    ],
+    "text_midpoint": [
+      41477.70760008509,
+      13872.25484375663,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 29.99999999998909,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41505.68405881641,
+      13857.25484375664,
+      0.0
+    ],
+    "defpoint3": [
+      41505.68405881643,
+      13887.25484375663,
+      0.0
+    ],
+    "angle": 90.0,
+    "measured": 29.999999999989086
+  },
+  {
+    "handle": "12BC87",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3169",
+    "defpoint": [
+      41505.0704438042,
+      13599.17084375662,
+      0.0
+    ],
+    "text_midpoint": [
+      41499.39187237562,
+      13584.17084375662,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 29.99999999997453,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41509.82123797504,
+      13569.17084375664,
+      0.0
+    ],
+    "defpoint3": [
+      41509.82123797504,
+      13599.17084375661,
+      0.0
+    ],
+    "angle": 90.0,
+    "measured": 29.999999999970896
+  },
+  {
+    "handle": "12BC8C",
+    "owner": "2",
+    "layer": "LIGHT",
+    "version": 0,
+    "geometry": "*D3170",
+    "defpoint": [
+      41956.56052171795,
+      13887.25484375664,
+      0.0
+    ],
+    "text_midpoint": [
+      41950.88195028937,
+      13872.25484375663,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 29.99999999998363,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41951.00595877216,
+      13857.25484375665,
+      0.0
+    ],
+    "defpoint3": [
+      41951.00595877214,
+      13887.25484375663,
+      0.0
+    ],
+    "angle": 90.0,
+    "measured": 29.99999999997999
+  },
+  {
+    "handle": "12BC8D",
+    "owner": "2",
+    "layer": "LIGHT",
+    "version": 0,
+    "geometry": "*D3171",
+    "defpoint": [
+      41972.79173436984,
+      13569.17084375664,
+      0.0
+    ],
+    "text_midpoint": [
+      41967.11316294126,
+      13584.17084375662,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 29.99999999997453,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41969.47097446799,
+      13599.17084375661,
+      0.0
+    ],
+    "defpoint3": [
+      41969.11472358753,
+      13569.17084375664,
+      0.0
+    ],
+    "angle": 90.0,
+    "measured": 29.999999999970896
+  },
+  {
+    "handle": "12BC8E",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3175",
+    "defpoint": [
+      41534.21218336539,
+      13772.20838883445,
+      0.0
+    ],
+    "text_midpoint": [
+      41504.21218336539,
+      13777.88696026302,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 60.0,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41474.21218336539,
+      13775.30005196531,
+      2.706165132262286e-17
+    ],
+    "defpoint3": [
+      41534.21218336539,
+      13775.30005196531,
+      2.706165132262286e-17
+    ],
+    "measured": 60.0
+  },
+  {
+    "handle": "12BC8F",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3174",
+    "defpoint": [
+      41495.50531906469,
+      13804.10125619507,
+      0.0
+    ],
+    "text_midpoint": [
+      41489.82674763611,
+      13765.65704997584,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 76.88841243843854,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41500.38571199676,
+      13727.21284375663,
+      0.0
+    ],
+    "defpoint3": [
+      41500.38571199676,
+      13804.10125619507,
+      2.706165132262286e-17
+    ],
+    "angle": 90.0,
+    "measured": 76.88841243844035
+  },
+  {
+    "handle": "12BCC2",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3172",
+    "defpoint": [
+      41859.4082162608,
+      13821.20564855548,
+      0.0
+    ],
+    "text_midpoint": [
+      41853.72964483222,
+      13774.20924615604,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 93.99280479884328,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41858.67930345287,
+      13727.21284375663,
+      0.0
+    ],
+    "defpoint3": [
+      41858.67930345287,
+      13821.20564855547,
+      0.0
+    ],
+    "angle": 90.0,
+    "measured": 93.99280479883964
+  },
+  {
+    "handle": "12BCCC",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3173",
+    "defpoint": [
+      41894.36907104902,
+      13793.00353889439,
+      0.0
+    ],
+    "text_midpoint": [
+      41858.36907104902,
+      13798.68211032296,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 72.0,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41822.36907104902,
+      13793.42794260292,
+      0.0
+    ],
+    "defpoint3": [
+      41894.36907104902,
+      13793.00353889439,
+      0.0
+    ],
+    "measured": 72.0
+  },
+  {
+    "handle": "12BD35",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3177",
+    "defpoint": [
+      41530.13182183035,
+      15037.83051544763,
+      0.0
+    ],
+    "text_midpoint": [
+      41524.45325040177,
+      15097.83051544762,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 120.0,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41530.13182183019,
+      15157.83051544763,
+      0.0
+    ],
+    "defpoint3": [
+      41530.13182183019,
+      15037.83051544763,
+      0.0
+    ],
+    "angle": 270.0,
+    "measured": 120.0
+  },
+  {
+    "handle": "12BD36",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3178",
+    "defpoint": [
+      41602.82434212761,
+      15142.22006949164,
+      0.0
+    ],
+    "text_midpoint": [
+      41524.82434212761,
+      15147.89864092021,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 155.9999999999854,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41446.82434212762,
+      15103.40138886368,
+      0.0
+    ],
+    "defpoint3": [
+      41602.82434212761,
+      15110.69023313642,
+      0.0
+    ],
+    "measured": 155.99999999999272
+  },
+  {
+    "handle": "12BD56",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3179",
+    "defpoint": [
+      41530.13182183039,
+      15348.81698917604,
+      0.0
+    ],
+    "text_midpoint": [
+      41524.45325040181,
+      15256.32375231182,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 184.9864737284115,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41533.01675583076,
+      15163.83051544763,
+      0.0
+    ],
+    "defpoint3": [
+      41533.01675583076,
+      15348.81698917604,
+      0.0
+    ],
+    "angle": 270.0,
+    "measured": 184.9864737284115
+  },
+  {
+    "handle": "12BD57",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3180",
+    "defpoint": [
+      41731.5725740937,
+      15257.22668869796,
+      0.0
+    ],
+    "text_midpoint": [
+      41589.19845811065,
+      15264.16418869796,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 284.7482319660849,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41446.82434212761,
+      15254.03664146748,
+      0.0
+    ],
+    "defpoint3": [
+      41731.5725740937,
+      15254.03664146748,
+      0.0
+    ],
+    "measured": 284.74823196608486
+  },
+  {
+    "handle": "12BD59",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3181",
+    "defpoint": [
+      41638.82434212761,
+      15142.22006949164,
+      0.0
+    ],
+    "text_midpoint": [
+      41620.82434212761,
+      15147.89864092021,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 36.00000000000728,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41602.82434212761,
+      15125.5499488252,
+      0.0
+    ],
+    "defpoint3": [
+      41638.82434212761,
+      15136.83051544763,
+      0.0
+    ],
+    "measured": 36.0
+  },
+  {
+    "handle": "12BD5B",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3182",
+    "defpoint": [
+      41658.37959789507,
+      15223.85246583233,
+      0.0
+    ],
+    "text_midpoint": [
+      41652.70102646649,
+      15205.85246583232,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 36.0,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41643.25258949224,
+      15187.85246583233,
+      0.0
+    ],
+    "defpoint3": [
+      41648.26888888801,
+      15223.85246583233,
+      0.0
+    ],
+    "angle": 90.0,
+    "measured": 36.0
+  },
+  {
+    "handle": "12BDC5",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3183",
+    "defpoint": [
+      41943.05538304121,
+      15027.83051544763,
+      0.0
+    ],
+    "text_midpoint": [
+      41937.37681161263,
+      14967.83051544762,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 120.0,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41943.05538304128,
+      14907.83051544763,
+      0.0
+    ],
+    "defpoint3": [
+      41943.05538304128,
+      15027.83051544763,
+      0.0
+    ],
+    "angle": 90.0,
+    "measured": 120.0
+  },
+  {
+    "handle": "12BDC6",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3184",
+    "defpoint": [
+      41870.36286274387,
+      14923.44096140361,
+      0.0
+    ],
+    "text_midpoint": [
+      41957.6116754781,
+      14929.11953283218,
+      0.0
+    ],
+    "dimtype": 160,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 155.9999999999854,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      42026.36286274385,
+      14962.25964203157,
+      0.0
+    ],
+    "defpoint3": [
+      41870.36286274387,
+      14954.97079775884,
+      0.0
+    ],
+    "angle": 180.0,
+    "measured": 155.99999999998545
+  },
+  {
+    "handle": "12BDD2",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3185",
+    "defpoint": [
+      41943.05538304118,
+      14756.73565584271,
+      0.0
+    ],
+    "text_midpoint": [
+      41937.3768116126,
+      14829.28308564516,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 145.094859604922,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41940.17044904071,
+      14901.83051544763,
+      0.0
+    ],
+    "defpoint3": [
+      41940.17044904071,
+      14756.7356558427,
+      0.0
+    ],
+    "angle": 90.0,
+    "measured": 145.0948596049293
+  },
+  {
+    "handle": "12BDD3",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3186",
+    "defpoint": [
+      41741.61463077777,
+      14808.43434219729,
+      0.0
+    ],
+    "text_midpoint": [
+      41883.98874676082,
+      14815.37184219729,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 284.7482319660849,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      42026.36286274386,
+      14811.62438942777,
+      0.0
+    ],
+    "defpoint3": [
+      41741.61463077777,
+      14811.62438942777,
+      0.0
+    ],
+    "angle": 180.0,
+    "measured": 284.74823196609213
+  },
+  {
+    "handle": "12BE6A",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3188",
+    "defpoint": [
+      42009.82768977844,
+      15256.98791860292,
+      0.0
+    ],
+    "text_midpoint": [
+      41875.79261841335,
+      15262.6664900315,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 268.0701427301756,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41741.75754704826,
+      15253.79787137244,
+      0.0
+    ],
+    "defpoint3": [
+      42009.82768977844,
+      15253.80908447997,
+      0.0
+    ],
+    "measured": 268.0701427301756
+  },
+  {
+    "handle": "12BE6B",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3189",
+    "defpoint": [
+      41803.6654803891,
+      15348.81698917604,
+      0.0
+    ],
+    "text_midpoint": [
+      41797.98690896052,
+      15256.30064923405,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 185.0326798839542,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41818.63149898488,
+      15163.78430929208,
+      0.0
+    ],
+    "defpoint3": [
+      41818.63149898488,
+      15348.81698917604,
+      0.0
+    ],
+    "angle": 90.0,
+    "measured": 185.03267988396146
+  },
+  {
+    "handle": "12BEF3",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3191",
+    "defpoint": [
+      41870.36286274382,
+      14923.44096140357,
+      0.0
+    ],
+    "text_midpoint": [
+      41852.36286274384,
+      14929.11953283214,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 35.9999999999709,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41834.36286274385,
+      14922.60642544628,
+      0.0
+    ],
+    "defpoint3": [
+      41870.36286274382,
+      14923.44096140357,
+      0.0
+    ],
+    "angle": 180.0,
+    "measured": 35.999999999970896
+  },
+  {
+    "handle": "12BF3A",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3192",
+    "defpoint": [
+      41859.40821626083,
+      13623.22003895779,
+      0.0
+    ],
+    "text_midpoint": [
+      41853.72964483225,
+      13670.2164413572,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 93.99280479884328,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41858.67930345287,
+      13717.21284375663,
+      0.0
+    ],
+    "defpoint3": [
+      41858.67930345287,
+      13623.22003895778,
+      0.0
+    ],
+    "angle": 270.0,
+    "measured": 93.99280479885056
+  },
+  {
+    "handle": "12BF3D",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3193",
+    "defpoint": [
+      41894.36907104902,
+      13651.42214861886,
+      0.0
+    ],
+    "text_midpoint": [
+      41858.36907104902,
+      13657.10072004743,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 72.0,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41822.36907104902,
+      13650.99774491033,
+      0.0
+    ],
+    "defpoint3": [
+      41894.36907104902,
+      13651.42214861886,
+      0.0
+    ],
+    "measured": 72.0
+  },
+  {
+    "handle": "12BF75",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3194",
+    "defpoint": [
+      41613.72376150688,
+      13821.20564855548,
+      0.0
+    ],
+    "text_midpoint": [
+      41608.0451900783,
+      13774.20924615604,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 93.99280479884328,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41614.45267431475,
+      13727.21284375663,
+      0.0
+    ],
+    "defpoint3": [
+      41614.45267431475,
+      13821.20564855547,
+      0.0
+    ],
+    "angle": 90.0,
+    "measured": 93.99280479883964
+  },
+  {
+    "handle": "12BF78",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3195",
+    "defpoint": [
+      41578.76290671861,
+      13793.00353889439,
+      0.0
+    ],
+    "text_midpoint": [
+      41614.76290671861,
+      13798.68211032296,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 72.0,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41650.76290671861,
+      13793.42794260292,
+      0.0
+    ],
+    "defpoint3": [
+      41578.76290671861,
+      13793.00353889439,
+      0.0
+    ],
+    "angle": 180.0,
+    "measured": 72.0
+  },
+  {
+    "handle": "12BFAE",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3197",
+    "defpoint": [
+      41613.72376150691,
+      13623.18950321508,
+      0.0
+    ],
+    "text_midpoint": [
+      41608.04519007833,
+      13670.18590561449,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 93.99280479884146,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41614.45267431475,
+      13717.18230801392,
+      0.0
+    ],
+    "defpoint3": [
+      41614.45267431475,
+      13623.18950321508,
+      0.0
+    ],
+    "angle": 270.0,
+    "measured": 93.99280479883964
+  },
+  {
+    "handle": "12BFC5",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3198",
+    "defpoint": [
+      41943.05538304124,
+      15157.71804801276,
+      0.0
+    ],
+    "text_midpoint": [
+      41937.37681161266,
+      15097.77428173018,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 119.8875325651334,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41936.15258108007,
+      15037.83051544762,
+      0.0
+    ],
+    "defpoint3": [
+      41936.22013681698,
+      15157.71804801276,
+      0.0
+    ],
+    "angle": 90.0,
+    "measured": 119.88753256514065
+  },
+  {
+    "handle": "12BFC6",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3199",
+    "defpoint": [
+      41870.36286274385,
+      15074.99597949034,
+      0.0
+    ],
+    "text_midpoint": [
+      41954.95909554347,
+      15080.67455091891,
+      0.0
+    ],
+    "dimtype": 160,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 156.0070775378117,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      42026.36994028166,
+      15075.41523615859,
+      0.0
+    ],
+    "defpoint3": [
+      41870.36286274385,
+      15075.41523615859,
+      0.0
+    ],
+    "measured": 156.00707753780443
+  },
+  {
+    "handle": "12C501",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3201",
+    "defpoint": [
+      41707.56974343565,
+      15236.21799295108,
+      0.0
+    ],
+    "text_midpoint": [
+      41689.56974343565,
+      15241.89656437965,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 36.0,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41671.56974343565,
+      15251.34500135392,
+      0.0
+    ],
+    "defpoint3": [
+      41707.56974343565,
+      15246.32870195815,
+      0.0
+    ],
+    "measured": 36.0
+  },
+  {
+    "handle": "12C58C",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3203",
+    "defpoint": [
+      41834.55961500752,
+      15223.85246583233,
+      0.0
+    ],
+    "text_midpoint": [
+      41828.88104357894,
+      15205.85246583232,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 36.0,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41849.68662341034,
+      15187.85246583233,
+      0.0
+    ],
+    "defpoint3": [
+      41844.67032401457,
+      15223.85246583233,
+      0.0
+    ],
+    "angle": 90.0,
+    "measured": 36.0
+  },
+  {
+    "handle": "12C596",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3202",
+    "defpoint": [
+      41765.81421369951,
+      15236.21799295108,
+      0.0
+    ],
+    "text_midpoint": [
+      41783.81421369951,
+      15241.89656437965,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 36.0,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41801.81421369951,
+      15251.34500135392,
+      0.0
+    ],
+    "defpoint3": [
+      41765.81421369951,
+      15246.32870195815,
+      0.0
+    ],
+    "angle": 180.0,
+    "measured": 36.0
+  },
+  {
+    "handle": "12C5D4",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3204",
+    "defpoint": [
+      41635.56974343565,
+      15236.21799295108,
+      0.0
+    ],
+    "text_midpoint": [
+      41653.56974343565,
+      15241.89656437965,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 36.0,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41671.56974343565,
+      15236.21799295108,
+      0.0
+    ],
+    "defpoint3": [
+      41635.56974343565,
+      15236.21799295108,
+      0.0
+    ],
+    "measured": 36.0
+  },
+  {
+    "handle": "12C5E1",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3205",
+    "defpoint": [
+      41446.82434212761,
+      15236.21799295107,
+      0.0
+    ],
+    "text_midpoint": [
+      41541.19704278163,
+      15243.15549295107,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 188.7454013080351,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41635.56974343565,
+      15236.21799295108,
+      0.0
+    ],
+    "defpoint3": [
+      41446.82434212761,
+      15236.21799295107,
+      0.0
+    ],
+    "measured": 188.74540130803507
+  },
+  {
+    "handle": "12C612",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3206",
+    "defpoint": [
+      41658.3795978951,
+      15277.85246383233,
+      0.0
+    ],
+    "text_midpoint": [
+      41652.70102646652,
+      15250.85246483232,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 53.99999799999205,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41658.37959789506,
+      15223.85246583233,
+      0.0
+    ],
+    "defpoint3": [
+      41658.37959789506,
+      15277.85246383233,
+      0.0
+    ],
+    "angle": 90.0,
+    "measured": 53.99999800000114
+  },
+  {
+    "handle": "12C61F",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3207",
+    "defpoint": [
+      41658.3795978951,
+      15348.81698917604,
+      0.0
+    ],
+    "text_midpoint": [
+      41652.70102646652,
+      15313.33472650418,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 70.96452534370292,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41658.37959789507,
+      15277.85246383233,
+      0.0
+    ],
+    "defpoint3": [
+      41658.37959789508,
+      15348.81698917604,
+      0.0
+    ],
+    "angle": 90.0,
+    "measured": 70.96452534371019
+  },
+  {
+    "handle": "12C662",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3209",
+    "defpoint": [
+      41834.55961500755,
+      15277.85246383236,
+      0.0
+    ],
+    "text_midpoint": [
+      41828.88104357897,
+      15250.85246483235,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 53.99999799999205,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41834.55961500748,
+      15223.85246583236,
+      0.0
+    ],
+    "defpoint3": [
+      41834.55961500748,
+      15277.85246383236,
+      0.0
+    ],
+    "angle": 90.0,
+    "measured": 53.99999799999932
+  },
+  {
+    "handle": "12C663",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3208",
+    "defpoint": [
+      41834.55961500755,
+      15348.81698917607,
+      0.0
+    ],
+    "text_midpoint": [
+      41828.88104357897,
+      15313.33472650421,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 70.96452534370292,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41834.55961500749,
+      15277.85246383236,
+      0.0
+    ],
+    "defpoint3": [
+      41834.5596150075,
+      15348.81698917607,
+      0.0
+    ],
+    "angle": 90.0,
+    "measured": 70.96452534371019
+  },
+  {
+    "handle": "12C6A0",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3213",
+    "defpoint": [
+      41658.3795978951,
+      14841.74749357752,
+      0.0
+    ],
+    "text_midpoint": [
+      41652.70102646652,
+      14859.7474935775,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 36.0,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41643.25258949224,
+      14877.74749357751,
+      0.0
+    ],
+    "defpoint3": [
+      41648.26888888801,
+      14841.74749357751,
+      0.0
+    ],
+    "angle": 270.0,
+    "measured": 36.0
+  },
+  {
+    "handle": "12C6A2",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3210",
+    "defpoint": [
+      41707.56974343565,
+      14829.38196645876,
+      0.0
+    ],
+    "text_midpoint": [
+      41689.56974343565,
+      14835.06053788733,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 36.0,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41671.56974343565,
+      14814.25495805592,
+      0.0
+    ],
+    "defpoint3": [
+      41707.56974343565,
+      14819.27125745169,
+      0.0
+    ],
+    "measured": 36.0
+  },
+  {
+    "handle": "12C6A7",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3211",
+    "defpoint": [
+      41635.56974343565,
+      14829.38196645876,
+      0.0
+    ],
+    "text_midpoint": [
+      41653.56974343565,
+      14835.06053788733,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 36.0,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41671.56974343565,
+      14829.38196645876,
+      0.0
+    ],
+    "defpoint3": [
+      41635.56974343565,
+      14829.38196645876,
+      0.0
+    ],
+    "measured": 36.0
+  },
+  {
+    "handle": "12C6A8",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3212",
+    "defpoint": [
+      41658.37959789516,
+      14792.74749557752,
+      0.0
+    ],
+    "text_midpoint": [
+      41652.70102646658,
+      14817.2474945775,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 48.99999799999205,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41658.37959789506,
+      14841.7474935775,
+      0.0
+    ],
+    "defpoint3": [
+      41658.37959789506,
+      14792.74749557751,
+      0.0
+    ],
+    "angle": 270.0,
+    "measured": 48.99999799999023
+  },
+  {
+    "handle": "12C745",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3214",
+    "defpoint": [
+      41658.37959789512,
+      14756.73565584271,
+      0.0
+    ],
+    "text_midpoint": [
+      41652.70102646654,
+      14774.7415757101,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 36.01183973481056,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41658.37959789514,
+      14792.74749557751,
+      0.0
+    ],
+    "defpoint3": [
+      41658.37959789514,
+      14756.7356558427,
+      0.0
+    ],
+    "angle": 90.0,
+    "measured": 36.011839734810565
+  },
+  {
+    "handle": "12C794",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3215",
+    "defpoint": [
+      41814.80760697637,
+      14841.74749357752,
+      0.0
+    ],
+    "text_midpoint": [
+      41809.12903554779,
+      14859.7474935775,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 36.0,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41829.93461537923,
+      14877.74749357751,
+      0.0
+    ],
+    "defpoint3": [
+      41824.91831598346,
+      14841.74749357751,
+      0.0
+    ],
+    "angle": 270.0,
+    "measured": 36.0
+  },
+  {
+    "handle": "12C795",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3216",
+    "defpoint": [
+      41765.61746143582,
+      14829.38196645876,
+      0.0
+    ],
+    "text_midpoint": [
+      41783.61746143582,
+      14835.06053788733,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 36.0,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41801.61746143582,
+      14814.25495805592,
+      0.0
+    ],
+    "defpoint3": [
+      41765.61746143582,
+      14819.27125745169,
+      0.0
+    ],
+    "angle": 180.0,
+    "measured": 36.0
+  },
+  {
+    "handle": "12C79A",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3217",
+    "defpoint": [
+      41837.61746143582,
+      14829.38196645876,
+      0.0
+    ],
+    "text_midpoint": [
+      41819.61746143582,
+      14835.06053788733,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 36.0,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41801.61746143582,
+      14829.38196645876,
+      0.0
+    ],
+    "defpoint3": [
+      41837.61746143582,
+      14829.38196645876,
+      0.0
+    ],
+    "angle": 180.0,
+    "measured": 36.0
+  },
+  {
+    "handle": "12C79B",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3218",
+    "defpoint": [
+      41814.80760697631,
+      14792.74749557752,
+      0.0
+    ],
+    "text_midpoint": [
+      41809.12903554773,
+      14817.2474945775,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 48.99999799999205,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41814.80760697641,
+      14841.7474935775,
+      0.0
+    ],
+    "defpoint3": [
+      41814.80760697641,
+      14792.74749557751,
+      0.0
+    ],
+    "angle": 270.0,
+    "measured": 48.99999799999023
+  },
+  {
+    "handle": "12C8A7",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3219",
+    "defpoint": [
+      41731.5725740937,
+      13948.35598120272,
+      0.0
+    ],
+    "text_midpoint": [
+      41676.05224076038,
+      13954.03455263129,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 111.0406666666386,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41620.53190742706,
+      13939.54476285138,
+      0.0
+    ],
+    "defpoint3": [
+      41731.5725740937,
+      13939.54476285138,
+      0.0
+    ],
+    "measured": 111.04066666663857
+  },
+  {
+    "handle": "12C8BD",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3220",
+    "defpoint": [
+      41664.16539041312,
+      13965.2548437569,
+      0.0
+    ],
+    "text_midpoint": [
+      41658.48681898454,
+      13929.25484375689,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 71.99999999999818,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41666.53118114582,
+      13893.25484375689,
+      0.0
+    ],
+    "defpoint3": [
+      41666.53118114582,
+      13965.25484375689,
+      0.0
+    ],
+    "angle": 90.0,
+    "measured": 72.0
+  },
+  {
+    "handle": "12C8CA",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3221",
+    "defpoint": [
+      41664.16539041314,
+      14038.19931748505,
+      0.0
+    ],
+    "text_midpoint": [
+      41658.48681898456,
+      14004.72708062096,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 66.94447372814648,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41664.16539041311,
+      13971.25484375689,
+      0.0
+    ],
+    "defpoint3": [
+      41664.16539041311,
+      14038.19931748504,
+      0.0
+    ],
+    "angle": 90.0,
+    "measured": 66.94447372815011
+  },
+  {
+    "handle": "12C905",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3222",
+    "defpoint": [
+      41741.3693831646,
+      13948.35598120272,
+      0.0
+    ],
+    "text_midpoint": [
+      41796.88971649792,
+      13954.03455263129,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 111.0406666666386,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41852.41004983124,
+      13939.54476285138,
+      0.0
+    ],
+    "defpoint3": [
+      41741.3693831646,
+      13939.54476285138,
+      0.0
+    ],
+    "angle": 180.0,
+    "measured": 111.04066666663857
+  },
+  {
+    "handle": "12C92C",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3223",
+    "defpoint": [
+      42009.86567546095,
+      13948.27235964491,
+      0.0
+    ],
+    "text_midpoint": [
+      41934.13786264609,
+      13955.20985964491,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 151.4556256297146,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41858.41004983124,
+      13948.35598120272,
+      0.0
+    ],
+    "defpoint3": [
+      42009.86567546095,
+      13948.35598120272,
+      0.0
+    ],
+    "measured": 151.45562562970736
+  },
+  {
+    "handle": "12C954",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3224",
+    "defpoint": [
+      41808.40705352962,
+      13965.2548437569,
+      0.0
+    ],
+    "text_midpoint": [
+      41802.72848210104,
+      13929.25484375689,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 71.99999999999818,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41810.77284426229,
+      13893.25484375689,
+      0.0
+    ],
+    "defpoint3": [
+      41810.77284426229,
+      13965.25484375689,
+      0.0
+    ],
+    "angle": 90.0,
+    "measured": 72.0
+  },
+  {
+    "handle": "12C955",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3225",
+    "defpoint": [
+      41808.40705352963,
+      14038.19931748505,
+      0.0
+    ],
+    "text_midpoint": [
+      41802.72848210105,
+      14004.72708062096,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 66.94447372814648,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41808.40705352958,
+      13971.25484375689,
+      0.0
+    ],
+    "defpoint3": [
+      41808.40705352958,
+      14038.19931748504,
+      0.0
+    ],
+    "angle": 90.0,
+    "measured": 66.94447372815011
+  },
+  {
+    "handle": "12C9E6",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3226",
+    "defpoint": [
+      41732.40965727952,
+      13508.06970631053,
+      0.0
+    ],
+    "text_midpoint": [
+      41676.8893239462,
+      13513.74827773911,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 111.0406666666386,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41621.36899061289,
+      13516.88092466188,
+      0.0
+    ],
+    "defpoint3": [
+      41732.40965727952,
+      13516.88092466188,
+      0.0
+    ],
+    "measured": 111.04066666662402
+  },
+  {
+    "handle": "12C9E7",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3227",
+    "defpoint": [
+      41665.00247359904,
+      13503.17084375637,
+      0.0
+    ],
+    "text_midpoint": [
+      41659.32390217046,
+      13533.1708437565,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 60.00000000027285,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41667.36826433165,
+      13563.17084375664,
+      0.0
+    ],
+    "defpoint3": [
+      41667.36826433165,
+      13503.17084375637,
+      0.0
+    ],
+    "angle": 270.0,
+    "measured": 60.00000000026921
+  },
+  {
+    "handle": "12CA05",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3228",
+    "defpoint": [
+      41742.20646635043,
+      13508.06970631053,
+      0.0
+    ],
+    "text_midpoint": [
+      41797.72679968375,
+      13513.74827773911,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 111.0406666666386,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41853.24713301707,
+      13516.88092466188,
+      0.0
+    ],
+    "defpoint3": [
+      41742.20646635043,
+      13516.88092466188,
+      0.0
+    ],
+    "angle": 180.0,
+    "measured": 111.04066666663857
+  },
+  {
+    "handle": "12CA06",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3229",
+    "defpoint": [
+      42026.36994028166,
+      13508.15332786835,
+      0.0
+    ],
+    "text_midpoint": [
+      41942.80853664936,
+      13513.83189929692,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 167.1228072645972,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41859.24713301707,
+      13508.06970631053,
+      0.0
+    ],
+    "defpoint3": [
+      42026.36994028166,
+      13508.06970631054,
+      0.0
+    ],
+    "measured": 167.12280726458994
+  },
+  {
+    "handle": "12CA07",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3230",
+    "defpoint": [
+      41809.24413671555,
+      13503.17084375637,
+      0.0
+    ],
+    "text_midpoint": [
+      41803.56556528697,
+      13533.17084375636,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 59.99999999999636,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41811.60992744812,
+      13563.17084375636,
+      0.0
+    ],
+    "defpoint3": [
+      41811.60992744812,
+      13503.17084375637,
+      0.0
+    ],
+    "angle": 270.0,
+    "measured": 59.999999999989086
+  },
+  {
+    "handle": "12CB39",
+    "owner": "2",
+    "layer": "LIGHT",
+    "version": 0,
+    "geometry": "*D3231",
+    "defpoint": [
+      41665.00247359905,
+      13446.11798415171,
+      0.0
+    ],
+    "text_midpoint": [
+      41659.32390217047,
+      13471.64441395403,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 51.05285960465881,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41665.00247359904,
+      13497.17084375636,
+      0.0
+    ],
+    "defpoint3": [
+      41665.00247359904,
+      13446.11798415171,
+      0.0
+    ],
+    "angle": 90.0,
+    "measured": 51.05285960464971
+  },
+  {
+    "handle": "12CB46",
+    "owner": "2",
+    "layer": "LIGHT",
+    "version": 0,
+    "geometry": "*D3232",
+    "defpoint": [
+      41809.24413671556,
+      13446.11798415171,
+      0.0
+    ],
+    "text_midpoint": [
+      41803.56556528698,
+      13471.64441395403,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 51.05285960465881,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41809.24413671555,
+      13497.17084375636,
+      0.0
+    ],
+    "defpoint3": [
+      41809.24413671555,
+      13446.11798415171,
+      0.0
+    ],
+    "angle": 90.0,
+    "measured": 51.05285960464971
+  },
+  {
+    "handle": "12CB75",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3233",
+    "defpoint": [
+      41870.43673892307,
+      15158.89624133709,
+      0.0
+    ],
+    "text_midpoint": [
+      41852.39980083346,
+      15164.57481276566,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 36.07387617921631,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41834.36286274385,
+      15158.91656869925,
+      0.0
+    ],
+    "defpoint3": [
+      41870.43673892307,
+      15158.89624133709,
+      0.0
+    ],
+    "measured": 36.07387617921631
+  },
+  {
+    "handle": "12CBD5",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3234",
+    "defpoint": [
+      41943.05538304126,
+      15348.70067108311,
+      0.0
+    ],
+    "text_midpoint": [
+      41937.37681161268,
+      15256.20743421889,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 184.9864737284115,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41945.9403170416,
+      15163.71419735469,
+      0.0
+    ],
+    "defpoint3": [
+      41945.9403170416,
+      15348.70067108311,
+      0.0
+    ],
+    "angle": 270.0,
+    "measured": 184.9864737284206
+  },
+  {
+    "handle": "12CBFB",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3235",
+    "defpoint": [
+      41638.82434212761,
+      14923.44096140361,
+      0.0
+    ],
+    "text_midpoint": [
+      41620.82434212761,
+      14929.11953283218,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 36.00000000000728,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41602.82434212761,
+      14906.77084073717,
+      0.0
+    ],
+    "defpoint3": [
+      41638.82434212761,
+      14918.0514073596,
+      0.0
+    ],
+    "measured": 36.0
+  },
+  {
+    "handle": "12CC19",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3236",
+    "defpoint": [
+      41664.16539041317,
+      13887.25484375662,
+      0.0
+    ],
+    "text_midpoint": [
+      41658.48681898456,
+      13870.08122331364,
+      0.0
+    ],
+    "dimtype": 160,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 59.9999999999236,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41656.76290671861,
+      13827.25484375669,
+      0.0
+    ],
+    "defpoint3": [
+      41656.76290671861,
+      13887.25484375662,
+      0.0
+    ],
+    "angle": 90.0,
+    "measured": 59.99999999993088
+  },
+  {
+    "handle": "12CC26",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3237",
+    "defpoint": [
+      41731.5725740937,
+      13846.49010010968,
+      0.0
+    ],
+    "text_midpoint": [
+      41655.19535395809,
+      13853.42760010968,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 152.7544402712301,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41578.81813382247,
+      13846.49010010967,
+      0.0
+    ],
+    "defpoint3": [
+      41731.5725740937,
+      13846.49010010968,
+      0.0
+    ],
+    "measured": 152.75444027123012
+  },
+  {
+    "handle": "12CC4E",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3238",
+    "defpoint": [
+      41894.1153053613,
+      13846.46837231409,
+      0.0
+    ],
+    "text_midpoint": [
+      41825.80909044374,
+      13853.40587231409,
+      0.0
+    ],
+    "dimtype": 160,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 152.647394556916,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41741.46791080439,
+      13846.46837231409,
+      0.0
+    ],
+    "defpoint3": [
+      41894.1153053613,
+      13846.46837231409,
+      0.0
+    ],
+    "measured": 152.6473945569087
+  },
+  {
+    "handle": "12CC64",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3239",
+    "defpoint": [
+      41812.87370586165,
+      13887.25484375662,
+      0.0
+    ],
+    "text_midpoint": [
+      41807.19513443307,
+      13857.25484375665,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 59.99999999992542,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41816.36907104902,
+      13827.25484375669,
+      0.0
+    ],
+    "defpoint3": [
+      41816.36907104902,
+      13887.25484375662,
+      0.0
+    ],
+    "angle": 90.0,
+    "measured": 59.99999999993088
+  },
+  {
+    "handle": "12CCAF",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3240",
+    "defpoint": [
+      41578.81813382247,
+      13680.87858177094,
+      0.0
+    ],
+    "text_midpoint": [
+      41614.81813382247,
+      13686.55715319952,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 72.0,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41650.81813382247,
+      13681.30298547947,
+      0.0
+    ],
+    "defpoint3": [
+      41578.81813382247,
+      13680.87858177094,
+      0.0
+    ],
+    "angle": 180.0,
+    "measured": 72.0
+  },
+  {
+    "handle": "12CCC5",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3241",
+    "defpoint": [
+      41446.82434212761,
+      13508.06970631053,
+      0.0
+    ],
+    "text_midpoint": [
+      41531.09666637025,
+      13515.00720631053,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 168.5446484852728,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41615.36899061289,
+      13508.06970631053,
+      0.0
+    ],
+    "defpoint3": [
+      41446.82434212761,
+      13508.06970631054,
+      0.0
+    ],
+    "measured": 168.54464848528005
+  },
+  {
+    "handle": "12CCDF",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3243",
+    "defpoint": [
+      41905.28247331295,
+      13446.11798415171,
+      0.0
+    ],
+    "text_midpoint": [
+      41899.60390188437,
+      13507.64441395417,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 123.0528596049353,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41905.28247331278,
+      13569.17084375664,
+      0.0
+    ],
+    "defpoint3": [
+      41905.28247331278,
+      13446.1179841517,
+      0.0
+    ],
+    "angle": 90.0,
+    "measured": 123.05285960493893
+  },
+  {
+    "handle": "12CD3D",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3244",
+    "defpoint": [
+      41814.80760697634,
+      14756.73565584266,
+      0.0
+    ],
+    "text_midpoint": [
+      41809.12903554776,
+      14774.74157571005,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 36.01183973481056,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41814.80760697633,
+      14792.74749557746,
+      0.0
+    ],
+    "defpoint3": [
+      41814.80760697633,
+      14756.73565584265,
+      0.0
+    ],
+    "angle": 90.0,
+    "measured": 36.011839734808746
+  },
+  {
+    "handle": "12CD87",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3245",
+    "defpoint": [
+      41671.56058594418,
+      11242.02184199541,
+      0.0
+    ],
+    "text_midpoint": [
+      41644.56058694418,
+      11247.70041342398,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 53.99999799999205,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41617.56058794419,
+      11244.55747442646,
+      0.0
+    ],
+    "defpoint3": [
+      41671.56058594418,
+      11244.55747442646,
+      0.0
+    ],
+    "measured": 53.99999799999205
+  },
+  {
+    "handle": "12CD94",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3246",
+    "defpoint": [
+      41622.96441970499,
+      11229.16072490406,
+      0.0
+    ],
+    "text_midpoint": [
+      41617.28584827641,
+      11247.16072490405,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 36.0,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41622.96441970496,
+      11265.16072490406,
+      0.0
+    ],
+    "defpoint3": [
+      41622.96441970496,
+      11229.16072490406,
+      0.0
+    ],
+    "angle": 90.0,
+    "measured": 36.0
+  },
+  {
+    "handle": "12CDB3",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3247",
+    "defpoint": [
+      41622.96441970501,
+      11140.16504301351,
+      0.0
+    ],
+    "text_midpoint": [
+      41617.28584827643,
+      11184.66288395877,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 88.9956818905448,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41644.56058694418,
+      11229.16072490406,
+      0.0
+    ],
+    "defpoint3": [
+      41644.56058694418,
+      11140.16504301351,
+      0.0
+    ],
+    "angle": 90.0,
+    "measured": 88.99568189055026
+  },
+  {
+    "handle": "12CDC9",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3249",
+    "defpoint": [
+      41850.38358771719,
+      11229.16072490406,
+      0.0
+    ],
+    "text_midpoint": [
+      41844.70501628861,
+      11247.16072490405,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 36.0,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41850.38358771713,
+      11265.16072490406,
+      0.0
+    ],
+    "defpoint3": [
+      41850.38358771713,
+      11229.16072490406,
+      0.0
+    ],
+    "angle": 90.0,
+    "measured": 36.0
+  },
+  {
+    "handle": "12CDCA",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3248",
+    "defpoint": [
+      41850.38358771722,
+      11140.16504301351,
+      0.0
+    ],
+    "text_midpoint": [
+      41844.70501628864,
+      11184.66288395877,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 88.9956818905448,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41871.97975495635,
+      11229.16072490406,
+      0.0
+    ],
+    "defpoint3": [
+      41871.97975495635,
+      11140.16504301351,
+      0.0
+    ],
+    "angle": 90.0,
+    "measured": 88.99568189055026
+  },
+  {
+    "handle": "12CDF5",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3250",
+    "defpoint": [
+      41681.70591030683,
+      9422.452511717596,
+      0.0
+    ],
+    "text_midpoint": [
+      41674.76841030682,
+      9491.194988447029,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 137.4849534588902,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41649.46857352307,
+      9559.937465176483,
+      0.0
+    ],
+    "defpoint3": [
+      41649.46857352307,
+      9422.452511717593,
+      0.0
+    ],
+    "angle": 90.0,
+    "measured": 137.48495345889023
+  },
+  {
+    "handle": "12CE1D",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3251",
+    "defpoint": [
+      41790.75339806071,
+      9422.452511717596,
+      0.0
+    ],
+    "text_midpoint": [
+      41783.8158980607,
+      9491.194988447029,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 137.4849534588902,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41758.51606127693,
+      9559.937465176483,
+      0.0
+    ],
+    "defpoint3": [
+      41758.51606127693,
+      9422.452511717593,
+      0.0
+    ],
+    "angle": 90.0,
+    "measured": 137.48495345889023
+  },
+  {
+    "handle": "12CE45",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3252",
+    "defpoint": [
+      41954.52204248267,
+      9422.452511717596,
+      0.0
+    ],
+    "text_midpoint": [
+      41948.84347105409,
+      9455.452512717582,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 66.00000199999886,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41954.88255506819,
+      9488.452513717592,
+      0.0
+    ],
+    "defpoint3": [
+      41954.88255506819,
+      9422.452511717593,
+      0.0
+    ],
+    "angle": 90.0,
+    "measured": 66.00000199999886
+  },
+  {
+    "handle": "12CE52",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3253",
+    "defpoint": [
+      41517.57675329939,
+      9422.452511717596,
+      0.0
+    ],
+    "text_midpoint": [
+      41511.89818187081,
+      9456.00505162692,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 67.10507981867522,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41517.57675329936,
+      9489.557591536268,
+      0.0
+    ],
+    "defpoint3": [
+      41517.57675329936,
+      9422.452511717593,
+      0.0
+    ],
+    "angle": 90.0,
+    "measured": 67.10507981867522
+  },
+  {
+    "handle": "12CE71",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3254",
+    "defpoint": [
+      41517.57675329939,
+      9693.547371322518,
+      0.0
+    ],
+    "text_midpoint": [
+      41510.63925329939,
+      9626.742418249489,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 133.6099061460336,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41522.55201858618,
+      9559.937465176481,
+      0.0
+    ],
+    "defpoint3": [
+      41522.55201858618,
+      9693.547371322515,
+      0.0
+    ],
+    "angle": 90.0,
+    "measured": 133.6099061460336
+  },
+  {
+    "handle": "12CE91",
+    "owner": "2",
+    "layer": "dimensions",
+    "version": 0,
+    "geometry": "*D3255",
+    "defpoint": [
+      41954.88255506821,
+      9559.937465176487,
+      0.0
+    ],
+    "text_midpoint": [
+      41947.9450550682,
+      9626.742418249489,
+      0.0
+    ],
+    "dimtype": 32,
+    "text": "",
+    "attachment_point": 5,
+    "actual_measurement": 133.6099061460318,
+    "unknown1": 0,
+    "flip_arrow_1": 0,
+    "flip_arrow_2": 0,
+    "dimstyle": "MIKE'S NONSLANTED DIMSTYLE",
+    "defpoint2": [
+      41925.20122985142,
+      9693.547371322515,
+      0.0
+    ],
+    "defpoint3": [
+      41925.20122985142,
+      9559.937465176483,
+      0.0
+    ],
+    "angle": 90.0,
+    "measured": 133.6099061460318
+  }
+]

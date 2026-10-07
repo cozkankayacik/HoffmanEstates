@@ -1,0 +1,8 @@
+PROJADES / NEW PROJECT IDENTITY
+Created for 2360 Hassell Road, 2026-09-29.
+Wordmark: Arial Bold. New sheet text: Arial / Arial Bold.
+Colors: #17332F, #27766E, #B1663C.
+A3 landscape, 420 x 297 mm, 10 mm border.
+Title block fixed at bottom. Fit to sheet / NTS.
+Original source fonts are retained in options 1-3.
+English filenames only.

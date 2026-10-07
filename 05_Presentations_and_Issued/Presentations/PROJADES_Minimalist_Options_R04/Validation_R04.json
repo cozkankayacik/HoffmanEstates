@@ -1,0 +1,21 @@
+{
+  "pdfs": {
+    "PROJADES_Options_4_and_5_Minimalist_A3_R04.pdf": {
+      "pages": 6,
+      "size": "A3 landscape",
+      "sha256": "1ffb9b2e0aa2691e588aef2fc9a8d53f227dd42aad9a45b0c6663a9367d220b2"
+    },
+    "PROJADES_Option_4_Minimalist_A3_R04.pdf": {
+      "pages": 3,
+      "size": "A3 landscape",
+      "sha256": "f5007c0df6f175d36f3712be615400e53cb98c003ccb4dcea39f89910ddda9bc"
+    },
+    "PROJADES_Option_5_Minimalist_A3_R04.pdf": {
+      "pages": 3,
+      "size": "A3 landscape",
+      "sha256": "214cb16c7acb055f0e294feb0fa11677a7de107f11b017bec96cf90d38853f49"
+    }
+  },
+  "original_sources": "all five hashes match",
+  "scope": "Ground-floor social zones revised; upper floor/core remain reference proposals."
+}

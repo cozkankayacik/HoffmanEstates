@@ -1,0 +1,89 @@
+{
+  "review_date": "2026-09-29",
+  "sources": [
+    [
+      "S01",
+      "Village adopted code list",
+      "2021 IBC, IRC, IEBC, IFC, IMC and IFGC; 2020 NEC; state codes.",
+      "https://www.hoffmanestates.org/services/permits_licenses/building_permits_inspections.php"
+    ],
+    [
+      "S02",
+      "Local adoption and amendments / Ordinance 5028-2023",
+      "R313 replacement (p.10); IFC 903.2 replacement (p.19); IEBC amendments (pp.13-14). Cross-check later ordinances at permit application.",
+      "https://mcclibraryfunctions.azurewebsites.us/api/ordinanceDownload/13575/1223302/pdf"
+    ],
+    [
+      "S03",
+      "Illinois energy rules / 71 IAC 600",
+      "Current adopted 2024 energy code and state amendments; effective November 30, 2025.",
+      "https://www.ilga.gov/agencies/JCAR/EntirePart?titlepart=07100600"
+    ],
+    [
+      "S04",
+      "2021 IEBC / Chapter 10",
+      "Work-area method change-of-occupancy provisions, including 1006 and 1011.2.1.",
+      "https://codes.iccsafe.org/content/IEBC2021V2.0/chapter-10-change-of-occupancy"
+    ],
+    [
+      "S05",
+      "2021 IRC / Chapter 3",
+      "Conditional IRC criteria: R302.2, R310, R311; apply only under the accepted code pathway.",
+      "https://codes.iccsafe.org/content/IRC2021P1/chapter-3-building-planning"
+    ],
+    [
+      "S06",
+      "2021 IRC / townhouse definition",
+      "ICC published explanation of R202 and the townhouse-unit definition.",
+      "https://shop.iccsafe.org/media/wysiwyg/material/7101S21-Sample.pdf"
+    ],
+    [
+      "S07",
+      "2021 IBC / occupancy classification",
+      "Section 310.3: evaluate R-2 if more than two dwellings are within an IBC-regulated building.",
+      "https://codes.iccsafe.org/content/IBC2021V2.0/chapter-3-occupancy-classification-and-use"
+    ],
+    [
+      "S08",
+      "Village zoning / Chapter 9",
+      "Approved zoning and conditions control. Sections 9-1-11 and 9-3-2 address occupancy and parking review.",
+      "https://library.municode.com/il/hoffman_estates/codes/code_of_ordinances?nodeId=CH9ZOCO"
+    ],
+    [
+      "S09",
+      "Illinois accessibility / 71 IAC 400",
+      "2018 Illinois Accessibility Code. Determine applicable conversion and residential scoping.",
+      "https://www.ilga.gov/commission/jcar/admincode/071/07100400sections.html"
+    ],
+    [
+      "S10",
+      "Illinois plumbing / 77 IAC 890",
+      "Use Illinois plumbing requirements, not a generic IRC plumbing checklist.",
+      "https://www.ilga.gov/agencies/JCAR/EntirePart?titlepart=07700890"
+    ],
+    [
+      "S11",
+      "ICC safety-glazing guidance",
+      "2021 IRC R308.4.1, glazing in swinging/sliding doors.",
+      "https://www.iccsafe.org/wp-content/uploads/Day-3-2021-IRC-Performing-Residential-Plan-Reviews.pdf"
+    ],
+    [
+      "S12",
+      "Village business directory",
+      "Municipal address spelling is 2360 HASSELL RD. This is address evidence, not permit or ownership evidence.",
+      "https://www.hoffmanestates.org/Documents/Business/Business%20Directory/Business%20-%20Directory.pdf?t=202512031025360"
+    ],
+    [
+      "S13",
+      "2021 IEBC / compliance methods",
+      "Section 301.3. Select an approved compliance method before applying chapter-specific tests.",
+      "https://codes.iccsafe.org/s/IEBC2021P1/chapter-3-provisions-for-all-compliance-methods/IEBC2021P1-Ch03-Sec301.3"
+    ],
+    [
+      "S14",
+      "ICC / mechanical ventilation clarification",
+      "2021 IRC R303.1 discussion: local kitchen exhaust can substitute for natural ventilation under applicable provisions.",
+      "https://www.iccsafe.org/building-safety-journal/bsj-technical/significant-changes-to-mechanical-ventilation-in-the-2021-international-residential-code/"
+    ]
+  ]
+}
