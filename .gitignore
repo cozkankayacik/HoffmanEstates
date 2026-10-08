@@ -1,5 +1,10 @@
-# Scratch renders, build scripts and the AutoCAD LT profile copy (~2 GB)
-tmp/
+# tmp/: scratch renders and the AutoCAD LT profile copy (~2 GB).
+# Keep only the build scripts and their small data inputs.
+/tmp/*
+!/tmp/*.py
+!/tmp/*.scr
+!/tmp/dimensions.json
+!/tmp/shell_points.json
 
 # Project-local LibreDWG and Python packages (~150 MB of binaries)
 tools/
