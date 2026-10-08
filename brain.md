@@ -1,6 +1,16 @@
 # Project Brain — 2360 Hassel Road
 
-Last updated: 2026-09-29
+Last updated: 2026-10-08
+
+## Current status at a glance
+
+- Latest revision: **R07** (2026-09-29) — entry identification on Options 4 and 5.
+- Current combined PDF: `05_Presentations_and_Issued/Presentations/PROJADES_Island_Options_R07/PROJADES_Options_4_and_5_Island_A3_R07.pdf`.
+- Scope: conversion of an existing office building to two-story townhouse-style homes (confirmed by the architect, see R03 section).
+- Options 1-3 and the source DWG are unchanged originals. Options 4 and 5 are the developed proposals. No option has been selected.
+- The R03 code-review holds remain open; nothing here is a compliance certification.
+- The workspace is under version control and pushed to GitHub since 2026-10-07 (see Version control).
+- Sections below are kept in the order they were written. Where an early section conflicts with a later revision section, the later one governs.
 
 ## Purpose
 
@@ -52,6 +62,29 @@ LibreDWG 0.14 converted a copy of the DWG to DXF. The converted file contains th
 
 The root `README.txt` explains file organization and naming. This file records project context and design decisions.
 
+Two working folders sit outside the numbered structure:
+
+| Folder | Contents |
+| --- | --- |
+| `tmp` | Python build scripts that generated R02-R07, their data inputs, per-revision render folders, a copy of the DWG/DXF, and an AutoCAD LT profile copy (`cad_profile`). About 2 GB. |
+| `tools` | Project-local LibreDWG 0.14 and Python packages (ezdxf). About 150 MB. |
+
+## Version control
+
+- Repository: https://github.com/cozkankayacik/HoffmanEstates (branch `main`), set up 2026-10-07 at the user's request.
+- Standing instruction from the user: commit and push regularly after each piece of work, without being asked.
+- Git is not on PATH. Use the copy bundled with Codex: `C:\Users\ozkan\.cache\codex-runtimes\codex-primary-runtime\dependencies\native\git\cmd\git.exe`. It includes Git LFS, and the credential manager already holds working GitHub credentials.
+- DWG, DXF, PDF, PPTX, ZIP, JPG and PNG files are stored with Git LFS (`.gitattributes`), matching the user's other project repositories.
+- Not in the repository (`.gitignore`): `tools/`, AutoCAD backup/lock/error files, and everything in `tmp/` except the build scripts (`*.py`, `*.scr`) and `dimensions.json` / `shell_points.json`.
+- The two ZIP packages entered the first commit without LFS and were converted in the second, leaving about 38 MB of extra history. Removing it would need a force-push; left as is.
+
+## Build pipeline notes
+
+- Each revision was produced by a script in `tmp` (`build_options.py`, `build_code_review.py`, `build_minimal_r04.py`, `build_island_r05.py`, `build_appliances_r06.py`, `build_entries_r07.py`, plus prepare/finalize/QA helpers). A new revision normally starts from the previous revision's script.
+- Each revision renders into its own `tmp` subfolder (for example `tmp/entries_r07`) before the PDFs are copied to the option `PDF` folders and the `Presentations` revision folder.
+- AutoCAD LT is installed, but a scripted run on 2026-09-29 failed with "Problem with setting up current profile" (`acadlt.err`). DWG reading has relied on LibreDWG and ezdxf since then; DWG output from AutoCAD LT is unproven in this workspace.
+- Superseded R01/R02 concept reviews are in `99_Archive/Superseded_Concept_Reviews`.
+
 ## Working conventions
 
 - Preserve original source filenames and issued material.
@@ -63,7 +96,7 @@ The root `README.txt` explains file organization and naming. This file records p
 
 ## Open questions
 
-- Is the scope new construction, conversion, or renovation?
+- ~~Is the scope new construction, conversion, or renovation?~~ Resolved 2026-09-29: office-to-townhouse conversion (see R03 section).
 - What are the confirmed parcel boundaries and existing site conditions?
 - What is the intended total unit count, and what do the outlined blocks represent?
 - What are the target unit areas, bedroom mix, accessibility goals, and budget?
@@ -89,6 +122,9 @@ These are proposed next steps, not completed work or approved design criteria.
 | 2026-09-29 | Reviewed the four PDFs and organized the five supplied source files; verified their contents remained unchanged. |
 | 2026-09-29 | User confirmed 2360 Hassel Road as the correct address; updated the project guide. |
 | 2026-09-29 | Created this project memory file at the user's request. |
+| 2026-09-29 | Issued review sets R02 through R07; details in the revision sections below. |
+| 2026-10-07 | Put the workspace under Git with LFS and pushed it to GitHub at the user's request. |
+| 2026-10-08 | Added status summary, version control and build pipeline notes; build scripts in `tmp` added to the repository. |
 
 ## Review limits
 
